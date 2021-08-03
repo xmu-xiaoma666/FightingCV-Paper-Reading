@@ -1,6 +1,5 @@
-# Recent-Paper-Reading
-
-
+# FightingCV-Paper-Reading
+## 文末有FightingCV交流群和FightingCV公众号，公众号和群里每天都会进行论文、代码的分享！！！
 
 ## CVPR2021
 - [Less is More-CVPR2021最佳学生论文提名](https://www.wolai.com/7MDHqTvP8PpfPQTBxB8yXZ)
