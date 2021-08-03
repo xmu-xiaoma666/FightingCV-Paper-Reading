@@ -12,6 +12,7 @@
 - [谷歌新作HaloNet：Transformer一作用Self-Attention的方式进行卷积](https://zhuanlan.zhihu.com/p/388598744)
 - [Involution（附对Involution的思考）：港科大、字节跳动、北大提出“内卷”神经网络算子，在CV三大任务上提点明显](https://zhuanlan.zhihu.com/p/395950242)
 - [CVPR2021-RSTNet：自适应Attention的“看图说话”模型](https://zhuanlan.zhihu.com/p/394793465)
+- [CVPR2021 Oral《Seeing Out of the Box》北科大&中山大学&微软提出端到端视觉语言表征预训练方法](https://zhuanlan.zhihu.com/p/395982625)
 - []()
 
 
