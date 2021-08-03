@@ -1,8 +1,11 @@
 # FightingCV-Paper-Reading
 
+
+（文章首发于FightingCV、我爱计算机视觉、极市平台等公众号，转载请先**获得授权并标明出处**）
+
 文末有**FightingCV交流群**和**FightingCV公众号**，公众号和群里**每天**都会进行**论文、代码的分享**！！！
 
-文章首发于FightingCV、我爱计算机视觉、极市平台等公众号，转载请先**获得授权并标明出处**
+
 
 ## CVPR2021
 - [Less is More-CVPR2021最佳学生论文提名](https://zhuanlan.zhihu.com/p/388824565)
