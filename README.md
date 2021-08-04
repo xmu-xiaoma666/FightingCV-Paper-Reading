@@ -1,9 +1,11 @@
 # FightingCV-Paper-Reading
 
+要看Attention、MLP、Conv、MLP代码复现的同学请到：https://github.com/xmu-xiaoma666/External-Attention-pytorch
+
+文末有**FightingCV交流群**和**FightingCV公众号**，公众号和群里**每天**都会进行**论文、代码的分享**！！！
 
 （文章首发于FightingCV、我爱计算机视觉、极市平台等公众号，转载请先**获得授权并标明出处**）
 
-文末有**FightingCV交流群**和**FightingCV公众号**，公众号和群里**每天**都会进行**论文、代码的分享**！！！
 
 
 
