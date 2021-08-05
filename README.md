@@ -14,7 +14,7 @@
 - [谷歌新作HaloNet：Transformer一作用Self-Attention的方式进行卷积](https://zhuanlan.zhihu.com/p/388598744)
 - [Involution（附对Involution的思考）：港科大、字节跳动、北大提出“内卷”神经网络算子，在CV三大任务上提点明显](https://zhuanlan.zhihu.com/p/395950242)
 - [CVPR2021-RSTNet：自适应Attention的“看图说话”模型](https://zhuanlan.zhihu.com/p/394793465)
-- [CVPR2021 Oral《Seeing Out of the Box》北科大&中山大学&微软提出端到端视觉语言表征预训练方法](https://zhuanlan.zhihu.com/p/395982625)
+- [CVPR2021 Oral《Seeing Out of the Box》北科大&中山大学&微软提出端到端视觉语言表征预训练方法](https://zhuanlan.zhihu.com/p/395982625) [【视频讲解】](https://www.bilibili.com/video/BV19q4y1D7Bu)
 - []()
 
 
@@ -22,8 +22,8 @@
 - [ICCV2021-DetCo：性能优于何恺明等人提出的MoCo v2，为目标检测定制任务的对比学习。](https://zhuanlan.zhihu.com/p/393202411)
 - [ICCV2021 Oral-MDETR：图灵奖得主Yann LeCun的团队&Facebook提出端到端多模态理解的目标检测器](https://zhuanlan.zhihu.com/p/394239659)
 - [ICCV2021 Oral-TAU&Facebook提出了通用的Attention模型可解释性](https://zhuanlan.zhihu.com/p/394794493)
-- [ICCV2021-iRPE-还在魔改Transformer结构吗？微软&中山大学提出超强的图片位置编码，涨点显著](https://zhuanlan.zhihu.com/p/395766591)
-- [ICCV 2021｜“白嫖”性能的MixMo，一种新的数据增强or模型融合方法](https://zhuanlan.zhihu.com/p/396528978)
+- [ICCV2021-iRPE-还在魔改Transformer结构吗？微软&中山大学提出超强的图片位置编码，涨点显著](https://zhuanlan.zhihu.com/p/395766591) [【视频讲解】](https://www.bilibili.com/video/BV19q4y1D7Bu)
+- [ICCV 2021｜“白嫖”性能的MixMo，一种新的数据增强or模型融合方法](https://zhuanlan.zhihu.com/p/396528978) [【视频讲解】](https://www.bilibili.com/video/BV19q4y1D7Bu)
 - []()
 
 ## ArXiv
