@@ -24,6 +24,7 @@
 - [ICCV2021 Oral-TAU&Facebook提出了通用的Attention模型可解释性](https://zhuanlan.zhihu.com/p/394794493)
 - [ICCV2021-iRPE-还在魔改Transformer结构吗？微软&中山大学提出超强的图片位置编码，涨点显著](https://zhuanlan.zhihu.com/p/395766591) [【视频讲解】](https://www.bilibili.com/video/BV19q4y1D7Bu)
 - [ICCV 2021｜“白嫖”性能的MixMo，一种新的数据增强or模型融合方法](https://zhuanlan.zhihu.com/p/396528978) [【视频讲解】](https://www.bilibili.com/video/BV19q4y1D7Bu)
+- [ICCV2021 -为什么深度学习模型能够分类正确？SCOUTER能够“正”“反”两个方面说服你。](https://zhuanlan.zhihu.com/p/396783525)
 - []()
 
 ## ArXiv
