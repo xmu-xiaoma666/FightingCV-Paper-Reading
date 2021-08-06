@@ -65,7 +65,7 @@
 ![](./tmpimg/wechat.jpg)
 
 微信群2：
-![](./tmpimg/wechat.jpg)
+![](./tmpimg/wechat2.jpg)
 
 
 ***
