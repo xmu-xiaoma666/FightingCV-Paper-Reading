@@ -39,6 +39,7 @@
 - [MaskFormer：语义分割、实例分割“大一统”：Facebook&UIUC提出MaskFormer](https://zhuanlan.zhihu.com/p/392731360)
 - [LG-Transformer：全局和局部建模Transformer结构新作](https://zhuanlan.zhihu.com/p/393202842)
 - [CoTNet-重磅开源！京东AI Research提出新的主干网络CoTNet,在CVPR上获得开放域图像识别竞赛冠军](https://zhuanlan.zhihu.com/p/394795481)
+- [S2-MLPV2-百度提出目前最强的视觉MLP架构，超越MLP-Mixer、Swin Transformer、CycleMLP等，达到83.6% Top-1准确率](https://zhuanlan.zhihu.com/p/397003638)
 - []()
 
 
