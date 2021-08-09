@@ -25,6 +25,7 @@
 - [ICCV2021-iRPE-还在魔改Transformer结构吗？微软&中山大学提出超强的图片位置编码，涨点显著](https://zhuanlan.zhihu.com/p/395766591) [【视频讲解】](https://www.bilibili.com/video/BV19q4y1D7Bu)
 - [ICCV 2021｜“白嫖”性能的MixMo，一种新的数据增强or模型融合方法](https://zhuanlan.zhihu.com/p/396528978) [【视频讲解】](https://www.bilibili.com/video/BV19q4y1D7Bu)
 - [ICCV2021 -为什么深度学习模型能够分类正确？SCOUTER能够“正”“反”两个方面说服你。](https://zhuanlan.zhihu.com/p/396783525)
+- [ICCV'21 Oral｜拒绝调参，显著提点！检测分割任务的新损失函数RS Loss开源](https://zhuanlan.zhihu.com/p/397519850)
 - []()
 
 ## ArXiv
@@ -40,7 +41,6 @@
 - [LG-Transformer：全局和局部建模Transformer结构新作](https://zhuanlan.zhihu.com/p/393202842)
 - [CoTNet-重磅开源！京东AI Research提出新的主干网络CoTNet,在CVPR上获得开放域图像识别竞赛冠军](https://zhuanlan.zhihu.com/p/394795481)
 - [S2-MLPV2-百度提出目前最强的视觉MLP架构，超越MLP-Mixer、Swin Transformer、CycleMLP等，达到83.6% Top-1准确率](https://zhuanlan.zhihu.com/p/397003638)
-- [ICCV'21 Oral｜拒绝调参，显著提点！检测分割任务的新损失函数RS Loss开源](https://zhuanlan.zhihu.com/p/397519850)
 - []()
 
 
