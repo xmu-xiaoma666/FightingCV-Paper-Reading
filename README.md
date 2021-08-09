@@ -26,6 +26,7 @@
 - [ICCV 2021｜“白嫖”性能的MixMo，一种新的数据增强or模型融合方法](https://zhuanlan.zhihu.com/p/396528978) [【视频讲解】](https://www.bilibili.com/video/BV19q4y1D7Bu)
 - [ICCV2021 -为什么深度学习模型能够分类正确？SCOUTER能够“正”“反”两个方面说服你。](https://zhuanlan.zhihu.com/p/396783525)
 - [ICCV'21 Oral｜拒绝调参，显著提点！检测分割任务的新损失函数RS Loss开源](https://zhuanlan.zhihu.com/p/397519850)
+- [ICCV21 | 大道至简，仅需4行代码提升多标签分类性能！ 南大提出Residual Attention](https://zhuanlan.zhihu.com/p/397990353)
 - []()
 
 ## ArXiv
