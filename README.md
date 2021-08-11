@@ -27,7 +27,9 @@
 - [ICCV2021 -为什么深度学习模型能够分类正确？SCOUTER能够“正”“反”两个方面说服你。](https://zhuanlan.zhihu.com/p/396783525)
 - [ICCV'21 Oral｜拒绝调参，显著提点！检测分割任务的新损失函数RS Loss开源](https://zhuanlan.zhihu.com/p/397519850)
 - [ICCV21 | 大道至简，仅需4行代码提升多标签分类性能！ 南大提出Residual Attention](https://zhuanlan.zhihu.com/p/397990353)
+- [ICCV2021 | 池化操作不是CNN的专属，Vision Transformer说：“我也可以”；南大提出池化视觉Transformer（PiT）](https://zhuanlan.zhihu.com/p/398763751)
 - []()
+
 
 ## ArXiv
 - [OutLook Attention：具有局部信息感知能力的ViT](https://zhuanlan.zhihu.com/p/385561050)
