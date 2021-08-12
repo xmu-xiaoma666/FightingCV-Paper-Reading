@@ -45,6 +45,7 @@
 - [CoTNet-重磅开源！京东AI Research提出新的主干网络CoTNet,在CVPR上获得开放域图像识别竞赛冠军](https://zhuanlan.zhihu.com/p/394795481)
 - [S2-MLPV2-百度提出目前最强的视觉MLP架构，超越MLP-Mixer、Swin Transformer、CycleMLP等，达到83.6% Top-1准确率](https://zhuanlan.zhihu.com/p/397003638)
 - [更深和更宽的Transformer，那个比较好？NUS团队给出了给出“Go Wider Instead of Deeper”的结论](https://zhuanlan.zhihu.com/p/398168686)
+- [让模型实现“终生学习”，佐治亚理工学院提出Data-Free的增量学习](https://zhuanlan.zhihu.com/p/399085992)
 - []()
 
 
