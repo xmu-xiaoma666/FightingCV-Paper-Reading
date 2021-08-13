@@ -31,6 +31,11 @@
 - []()
 
 
+## ACM MM2021
+- [ACM MM2021-还在用ViT的16x16 Patch分割方法吗？中科院自动化所提出Deformable Patch-based方法，涨点显著！
+](https://zhuanlan.zhihu.com/p/399417704)
+- []()
+
 ## ArXiv
 - [OutLook Attention：具有局部信息感知能力的ViT](https://zhuanlan.zhihu.com/p/385561050)
 - [CoAtNet：卷积+注意力=？？？](https://zhuanlan.zhihu.com/p/385578588)
