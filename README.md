@@ -11,7 +11,7 @@ Hello，大家好，我是小马🚀🚀🚀
 
 文末有**FightingCV交流群**和**FightingCV公众号**，**每天**都会进行**论文、代码的分享**！！！
 
-（最新还更新了[[Attention、MLP、Conv、MLP、Backbone的代码复现项目](https://github.com/xmu-xiaoma666/External-Attention-pytorch)，欢迎大家学习交流）
+（最新还更新了[Attention、MLP、Conv、MLP、Backbone的代码复现项目](https://github.com/xmu-xiaoma666/External-Attention-pytorch)，欢迎大家学习交流）
 
 
 
