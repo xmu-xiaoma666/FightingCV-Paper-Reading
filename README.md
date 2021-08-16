@@ -1,10 +1,20 @@
 # FightingCV-Paper-Reading
 
-要看Attention、MLP、Conv、MLP代码复现的同学请到：https://github.com/xmu-xiaoma666/External-Attention-pytorch
 
-文末有**FightingCV交流群**和**FightingCV公众号**，公众号和群里**每天**都会进行**论文、代码的分享**！！！
+Hello，大家好，我是小马🚀🚀🚀
 
-（文章首发于FightingCV、我爱计算机视觉、极市平台等公众号，转载请先**获得授权并标明出处**）
+作为研究生，读论文一直都是都是一件非常**费时费脑**的事情，因为帮助大家用**5分钟**的时间就能知道某篇论文的大致内容，我会把我看过的论文做好解析分享在这里。**项目持续更新，每周至少更新三篇！**⭐⭐⭐
+
+本项目的宗旨是**让世界上没有难读的论文**，论文主题包括但不限于检测、分类、分割、Backbone、多模态等等，论文来源包括但不限于最新的arXiv论文、ICCV2021、CVPR2021、MM2021。⭐⭐⭐
+
+
+
+
+要看代码复现的同学请到：
+
+文末有**FightingCV交流群**和**FightingCV公众号**，**每天**都会进行**论文、代码的分享**！！！
+
+（最新还更新了[[Attention、MLP、Conv、MLP、Backbone的代码复现项目](https://github.com/xmu-xiaoma666/External-Attention-pytorch)，欢迎大家学习交流）
 
 
 
