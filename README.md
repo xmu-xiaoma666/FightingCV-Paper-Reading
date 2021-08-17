@@ -36,6 +36,7 @@ Hello，大家好，我是小马🚀🚀🚀
 - [ICCV21 | 大道至简，仅需4行代码提升多标签分类性能！ 南大提出Residual Attention](https://zhuanlan.zhihu.com/p/397990353)
 - [ICCV2021 | 池化操作不是CNN的专属，Vision Transformer说：“我也可以”；南大提出池化视觉Transformer（PiT）](https://zhuanlan.zhihu.com/p/398763751)
 - [ICCV2021 | CNN+Transformer=Better，国科大&华为&鹏城实验室 出Conformer，84.1% Top-1准确率](https://zhuanlan.zhihu.com/p/400244375)
+- [ICCV2021 | MicroNets-更小更快更好的MicroNet，三大CV任务都秒杀MobileNetV3](https://zhuanlan.zhihu.com/p/400661708)
 - []()
 
 ## ACM MM2021
