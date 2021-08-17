@@ -8,12 +8,22 @@ Hello，大家好，我是小马🚀🚀🚀
 本项目的宗旨是🚀**让世界上没有难读的论文**🚀，论文主题包括但不限于检测、分类、分割、Backbone、多模态等等，论文来源包括但不限于最新的arXiv论文、ICCV2021、CVPR2021、MM2021。**(项目会保持持续更新，每周至少三篇)**⭐⭐⭐
  
 
-
-文末有**FightingCV交流群**和**FightingCV公众号**，**每天**都会进行**论文、代码的分享**！！！
-
 （最新还更新了[【Attention、MLP、Conv、MLP、Backbone的代码复现项目】](https://github.com/xmu-xiaoma666/External-Attention-pytorch)，欢迎大家学习交流）
 
+## 公众号 & 微信交流群
 
+欢迎大家关注公众号：**FightingCV**
+
+公众号**每天**都会进行**论文、算法和代码的干货分享**哦~
+
+
+已建立**机器学习/深度学习算法/计算机视觉/多模态交流群**微信交流群！
+
+**每天在群里分享一些近期的论文和解析**，欢迎大家一起**学习交流**哈~~~
+
+![](./tmpimg/wechat.jpg)
+
+强烈推荐大家关注[**知乎**](https://www.zhihu.com/people/jason-14-58-38/posts)账号和[**FightingCV公众号**](https://mp.weixin.qq.com/s/sgNw6XFBPcD20Ef3ddfE1w)，可以快速了解到最新优质的干货资源。
 
 
 ## CVPR2021
@@ -64,20 +74,4 @@ Hello，大家好，我是小马🚀🚀🚀
 
 
 
-## **机器学习/深度学习算法/计算机视觉/多模态交流群**
 
-## **群里每天都会进行论文的分享哦！！！**
-
-欢迎大家关注公众号：**FightingCV**
-
-公众号**每天**都会进行**论文、算法和代码的干货分享**哦~
-
-
-
-已建立**机器学习/深度学习算法/计算机视觉/多模态交流群**微信交流群！
-
-**每天在群里分享一些近期的论文和解析**，欢迎大家一起**学习交流**哈~~~
-微信群：
-![](./tmpimg/wechat.jpg)
-
-强烈推荐大家关注[**知乎**](https://www.zhihu.com/people/jason-14-58-38/posts)账号和[**FightingCV公众号**](https://mp.weixin.qq.com/s/sgNw6XFBPcD20Ef3ddfE1w)，可以快速了解到最新优质的干货资源。
