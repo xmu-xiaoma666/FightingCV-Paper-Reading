@@ -94,5 +94,8 @@ Hello，大家好，我是小马🚀🚀🚀
 ### 增量学习（Incremental Learning）
 - [让模型实现“终生学习”，佐治亚理工学院提出Data-Free的增量学习](https://zhuanlan.zhihu.com/p/399085992)
 - []()
+### 其他
+- [Video Swin Transformer-既Swin Transformer之后，MSRA开源Video Swin Transformer，在视频数据集上SOTA](https://zhuanlan.zhihu.com/p/401600421)
+- []()
 
 
