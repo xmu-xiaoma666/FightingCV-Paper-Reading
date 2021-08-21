@@ -72,6 +72,11 @@ Hello，大家好，我是小马🚀🚀🚀
 - [ACM MM2021-还在用ViT的16x16 Patch分割方法吗？中科院自动化所提出Deformable Patch-based方法，涨点显著！](https://zhuanlan.zhihu.com/p/399417704)
 - []()
 
+## SIGIR 2021
+### 多模态（Multi-Modal）
+- [SIGIR 2021 最佳学生论文-图像文本检索的动态模态交互建模](https://zhuanlan.zhihu.com/p/402122260)
+- []()
+
 ## ArXiv
 ### 主干网络（Backbone，CNN，Transformer）
 - [OutLook Attention：具有局部信息感知能力的ViT](https://zhuanlan.zhihu.com/p/385561050)
