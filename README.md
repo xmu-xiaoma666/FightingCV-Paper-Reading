@@ -36,6 +36,7 @@ Hello，大家好，我是小马🚀🚀🚀
 - [CVPR2021-RSTNet：自适应Attention的“看图说话”模型](https://zhuanlan.zhihu.com/p/394793465)
 - [CVPR2021 Oral《Seeing Out of the Box》北科大&中山大学&微软提出端到端视觉语言表征预训练方法](https://zhuanlan.zhihu.com/p/395982625) [【视频讲解】](https://www.bilibili.com/video/BV19q4y1D7Bu)
 - [CVPR2021-开放式的Video Captioning，中科院自动化所提出基于“检索-复制-生成”的网络](https://zhuanlan.zhihu.com/p/401333569) 
+- [CVPR2021-多模态任务新进展！哥大&Facebook提出VX2TEXT模型，实现了“视频+X”到“文本”的任务](https://zhuanlan.zhihu.com/p/403340498) 
 - []()
 ### 主干网络（Backbone，CNN，Transformer）
 - [谷歌新作HaloNet：Transformer一作用Self-Attention的方式进行卷积](https://zhuanlan.zhihu.com/p/388598744)
