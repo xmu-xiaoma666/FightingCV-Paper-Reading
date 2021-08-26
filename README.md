@@ -72,6 +72,7 @@ Hello，大家好，我是小马🚀🚀🚀
 ### 主干网络（Backbone，CNN，Transformer）
 - [ACM MM2021-还在用ViT的16x16 Patch分割方法吗？中科院自动化所提出Deformable Patch-based方法，涨点显著！](https://zhuanlan.zhihu.com/p/399417704)
 - [ACMMM 2021-多模态宝藏！京东梅涛团队重磅开源第一个适用于多个任务的多模态代码库x-modaler！](https://zhuanlan.zhihu.com/p/403688076)
+- [ACMMM 2021-性能SOTA！用GNN和GAN的方式来强化Video Captioning的学习！](https://zhuanlan.zhihu.com/p/403895573)
 - []()
 
 ## SIGIR 2021
