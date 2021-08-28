@@ -32,7 +32,9 @@ Hello，大家好，我是小马🚀🚀🚀
 
 ## CVPR2021
 ### 多模态（Multi-Modal）
-- [Less is More-CVPR2021最佳学生论文提名](https://zhuanlan.zhihu.com/p/388824565) [【Less is More: CLIPBERT for Video-and-Language Learning via Sparse Sampling】](https://arxiv.org/abs/2102.06183)
+- [Less is More-CVPR2021最佳学生论文提名](https://zhuanlan.zhihu.com/p/388824565)
+  
+    [【Less is More: CLIPBERT for Video-and-Language Learning via Sparse Sampling】](https://arxiv.org/abs/2102.06183)
 - [CVPR2021-RSTNet：自适应Attention的“看图说话”模型](https://zhuanlan.zhihu.com/p/394793465) [【RSTNet: Captioning With Adaptive Attention on Visual and Non-Visual Words】](https://openaccess.thecvf.com/content/CVPR2021/html/Zhang_RSTNet_Captioning_With_Adaptive_Attention_on_Visual_and_Non-Visual_Words_CVPR_2021_paper.html)
 - [CVPR2021 Oral《Seeing Out of the Box》北科大&中山大学&微软提出端到端视觉语言表征预训练方法](https://zhuanlan.zhihu.com/p/395982625)  [【Seeing Out of the Box: End-to-End Pre-Training for Vision-Language Representation Learning】](https://openaccess.thecvf.com/content/CVPR2021/html/Huang_Seeing_Out_of_the_Box_End-to-End_Pre-Training_for_Vision-Language_Representation_CVPR_2021_paper.html)
 - [CVPR2021-开放式的Video Captioning，中科院自动化所提出基于“检索-复制-生成”的网络](https://zhuanlan.zhihu.com/p/401333569)  [【Open-book Video Captioning with Retrieve-Copy-Generate Network】](https://arxiv.org/abs/2103.05284)
