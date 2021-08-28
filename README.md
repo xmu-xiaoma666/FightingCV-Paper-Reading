@@ -124,7 +124,7 @@ Hello，大家好，我是小马🚀🚀🚀
     [【Local-to-Global Self-Attention in Vision Transformers】](https://arxiv.org/abs/2107.04735)
 - [CoTNet-重磅开源！京东AI Research提出新的主干网络CoTNet,在CVPR上获得开放域图像识别竞赛冠军](https://zhuanlan.zhihu.com/p/394795481)  
     [【Contextual Transformer Networks for Visual Recognition】](https://arxiv.org/abs/2107.12292)
-- [S2-MLPV2-百度提出目前最强的视觉MLP架构，超越MLP-Mixer、Swin Transformer、CycleMLP等，达到83.6% Top-1准确率](https://zhuanlan.zhihu.com/p/397003638)  
+- [S²-MLPv2-百度提出目前最强的视觉MLP架构，超越MLP-Mixer、Swin Transformer、CycleMLP等，达到83.6% Top-1准确率](https://zhuanlan.zhihu.com/p/397003638)  
     [【S²-MLPv2: Improved Spatial-Shift MLP Architecture for Vision】](https://arxiv.org/abs/2108.01072)
 - [更深和更宽的Transformer，那个比较好？NUS团队给出了给出“Go Wider Instead of Deeper”的结论](https://zhuanlan.zhihu.com/p/398168686)  
     [【Go Wider Instead of Deeper】](https://arxiv.org/abs/2107.11817)
