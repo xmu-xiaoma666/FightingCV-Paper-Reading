@@ -32,7 +32,7 @@ Hello，大家好，我是小马🚀🚀🚀
 
 ## CVPR2021
 ### 多模态（Multi-Modal）
-- [Less is More-CVPR2021最佳学生论文提名](https://zhuanlan.zhihu.com/p/388824565)
+- [Less is More-CVPR2021最佳学生论文提名](https://zhuanlan.zhihu.com/p/388824565) [【Less is More: CLIPBERT for Video-and-Language Learning via Sparse Sampling】](https://arxiv.org/abs/2102.06183)
 - [CVPR2021-RSTNet：自适应Attention的“看图说话”模型](https://zhuanlan.zhihu.com/p/394793465)
 - [CVPR2021 Oral《Seeing Out of the Box》北科大&中山大学&微软提出端到端视觉语言表征预训练方法](https://zhuanlan.zhihu.com/p/395982625) [【视频讲解】](https://www.bilibili.com/video/BV19q4y1D7Bu)
 - [CVPR2021-开放式的Video Captioning，中科院自动化所提出基于“检索-复制-生成”的网络](https://zhuanlan.zhihu.com/p/401333569) 
