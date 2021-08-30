@@ -58,7 +58,9 @@ Hello，大家好，我是小马🚀🚀🚀
 ### 多模态（Multi-Modal）
 - [ICCV2021 Oral-MDETR：图灵奖得主Yann LeCun的团队&Facebook提出端到端多模态理解的目标检测器](https://zhuanlan.zhihu.com/p/394239659)  
     [【MDETR -- Modulated Detection for End-to-End Multi-Modal Understanding】](https://arxiv.org/abs/2104.12763)
-- []()
+- [ICCV2021-NTU用多样性的query生成，涨点基于文本的实例分割（已开源）](https://zhuanlan.zhihu.com/p/404955179)  
+    [【Vision-Language Transformer and Query Generation for Referring Segmentation】](https://arxiv.org/abs/2108.05565)
+
 ### 对比学习（Contrastive Learning）
 - [ICCV2021-DetCo：性能优于何恺明等人提出的MoCo v2，为目标检测定制任务的对比学习。](https://zhuanlan.zhihu.com/p/393202411)  
     [【DetCo: Unsupervised Contrastive Learning for Object Detection】](https://arxiv.org/abs/2102.04803)
