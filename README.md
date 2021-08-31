@@ -149,6 +149,8 @@ Hello，大家好，我是小马🚀🚀🚀
 ### 其他
 - [Video Swin Transformer-既Swin Transformer之后，MSRA开源Video Swin Transformer，在视频数据集上SOTA](https://zhuanlan.zhihu.com/p/401600421)  
     [【Video Swin Transformer】](https://arxiv.org/abs/2106.13230)
+- [DynamicViT-还在用全部token训练ViT？清华&UCLA提出token的动态稀疏化采样，降低inference时的计算量](https://zhuanlan.zhihu.com/p/405326718)  
+    [【DynamicViT: Effificient Vision Transformers with Dynamic Token Sparsifification】](https://arxiv.org/abs/2106.02034)
 - []()
 
 
