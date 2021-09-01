@@ -83,7 +83,10 @@ Hello，大家好，我是小马🚀🚀🚀
     [【Conformer: Local Features Coupling Global Representations for Visual Recognition】](https://arxiv.org/abs/2105.03889)
 - [ICCV2021 | MicroNets-更小更快更好的MicroNet，三大CV任务都秒杀MobileNetV3](https://zhuanlan.zhihu.com/p/400661708)  
     [【MicroNet: Improving Image Recognition with Extremely Low FLOPs】](https://arxiv.org/abs/2108.05894)
-- []()
+### 多任务（Multi-Task）
+- [ICCV2021-MuST-还在特定任务里为刷点而苦苦挣扎？谷歌的大佬们都已经开始玩多任务训练了](https://zhuanlan.zhihu.com/p/405652732)  
+    [【Multi-Task Self-Training for Learning General Representations】](https://arxiv.org/abs/2108.11353)
+
 ### 其他
 - [ICCV 2021｜“白嫖”性能的MixMo，一种新的数据增强or模型融合方法](https://zhuanlan.zhihu.com/p/396528978)   
     [【MicroNet: Improving Image Recognition with Extremely Low FLOPs】](https://arxiv.org/abs/2108.05894)
