@@ -63,9 +63,10 @@ Hello，大家好，我是小马🚀🚀🚀
     [【MDETR -- Modulated Detection for End-to-End Multi-Modal Understanding】](https://arxiv.org/abs/2104.12763)
 - [ICCV2021-NTU用多样性的query生成，涨点基于文本的实例分割（已开源）](https://zhuanlan.zhihu.com/p/404955179)  
     [【Vision-Language Transformer and Query Generation for Referring Segmentation】](https://arxiv.org/abs/2108.05565)
-- [[ICCV2021-如何高效视频定位？北大&Adobe&QMUL强强联手提出弱监督CRM，性能SOTA](https://zhuanlan.zhihu.com/p/406704588)](https://zhuanlan.zhihu.com/p/406600799)  
+- [ICCV2021-如何高效视频定位？北大&Adobe&QMUL强强联手提出弱监督CRM，性能SOTA](https://zhuanlan.zhihu.com/p/406704588)  
     [【Cross-Sentence Temporal and Semantic Relations in Video Activity Localisation】](https://arxiv.org/abs/2107.11443)
-
+- [ICCV2021-TOCo-微软&CMU提出Token感知的级联对比学习方法，在视频文本对齐任务上“吊打”其他SOTA方法](https://zhuanlan.zhihu.com/p/406827017)  
+    [【TACo: Token-aware Cascade Contrastive Learning for Video-Text Alignment】](https://arxiv.org/abs/2108.09980)
 
 ### 对比学习（Contrastive Learning）
 - [ICCV2021-DetCo：性能优于何恺明等人提出的MoCo v2，为目标检测定制任务的对比学习。](https://zhuanlan.zhihu.com/p/393202411)  
