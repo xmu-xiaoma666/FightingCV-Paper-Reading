@@ -63,7 +63,7 @@ Hello，大家好，我是小马🚀🚀🚀
     [【MDETR -- Modulated Detection for End-to-End Multi-Modal Understanding】](https://arxiv.org/abs/2104.12763)
 - [ICCV2021-NTU用多样性的query生成，涨点基于文本的实例分割（已开源）](https://zhuanlan.zhihu.com/p/404955179)  
     [【Vision-Language Transformer and Query Generation for Referring Segmentation】](https://arxiv.org/abs/2108.05565)
-- [ICCV2021-如何高效视频定位？北大&Adobe&QMUL强强联手提出弱监督CRM，性能SOTA](https://zhuanlan.zhihu.com/p/406600799)  
+- [[ICCV2021-如何高效视频定位？北大&Adobe&QMUL强强联手提出弱监督CRM，性能SOTA](https://zhuanlan.zhihu.com/p/406704588)](https://zhuanlan.zhihu.com/p/406600799)  
     [【Cross-Sentence Temporal and Semantic Relations in Video Activity Localisation】](https://arxiv.org/abs/2107.11443)
 
 
