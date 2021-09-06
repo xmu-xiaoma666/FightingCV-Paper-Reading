@@ -61,10 +61,13 @@ Hello，大家好，我是小马🚀🚀🚀
 ### 多模态（Multi-Modal）
 - [ICCV2021 Oral-MDETR：图灵奖得主Yann LeCun的团队&Facebook提出端到端多模态理解的目标检测器](https://zhuanlan.zhihu.com/p/394239659)  
     [【MDETR -- Modulated Detection for End-to-End Multi-Modal Understanding】](https://arxiv.org/abs/2104.12763)
+    
 - [ICCV2021-NTU用多样性的query生成，涨点基于文本的实例分割（已开源）](https://zhuanlan.zhihu.com/p/404955179)  
     [【Vision-Language Transformer and Query Generation for Referring Segmentation】](https://arxiv.org/abs/2108.05565)
+
 - [ICCV2021-如何高效视频定位？北大&Adobe&QMUL强强联手提出弱监督CRM，性能SOTA](https://zhuanlan.zhihu.com/p/406704588)  
     [【Cross-Sentence Temporal and Semantic Relations in Video Activity Localisation】](https://arxiv.org/abs/2107.11443)
+    
 - [ICCV2021-TOCo-微软&CMU提出Token感知的级联对比学习方法，在视频文本对齐任务上“吊打”其他SOTA方法](https://zhuanlan.zhihu.com/p/406827017)  
     [【TACo: Token-aware Cascade Contrastive Learning for Video-Text Alignment】](https://arxiv.org/abs/2108.09980)
 
@@ -78,31 +81,43 @@ Hello，大家好，我是小马🚀🚀🚀
 ### 可解释性（Interpretability）
 - [ICCV2021 Oral-TAU&Facebook提出了通用的Attention模型可解释性](https://zhuanlan.zhihu.com/p/394794493)  
     [【Generic Attention-model Explainability for Interpreting Bi-Modal and Encoder-Decoder Transformers】](https://arxiv.org/abs/2103.15679)
+
 - [ICCV2021 -为什么深度学习模型能够分类正确？SCOUTER能够“正”“反”两个方面说服你。](https://zhuanlan.zhihu.com/p/396783525)  
     [【SCOUTER: Slot Attention-based Classifier for Explainable Image Recognition】](https://arxiv.org/abs/2009.06138)
-- []()
+
+
 ### 主干网络（Backbone，CNN，Transformer）
 - [ICCV2021-iRPE-还在魔改Transformer结构吗？微软&中山大学提出超强的图片位置编码，涨点显著](https://zhuanlan.zhihu.com/p/395766591)   
     [【Rethinking and Improving Relative Position Encoding for Vision Transformer】](https://arxiv.org/abs/2107.14222)
+
 - [ICCV2021 | 池化操作不是CNN的专属，Vision Transformer说：“我也可以”；南大提出池化视觉Transformer（PiT）](https://zhuanlan.zhihu.com/p/398763751)  
     [【Rethinking Spatial Dimensions of Vision Transformers】](https://arxiv.org/abs/2103.16302)
+
 - [ICCV2021 | CNN+Transformer=Better，国科大&华为&鹏城实验室 出Conformer，84.1% Top-1准确率](https://zhuanlan.zhihu.com/p/400244375)  
     [【Conformer: Local Features Coupling Global Representations for Visual Recognition】](https://arxiv.org/abs/2105.03889)
+
 - [ICCV2021 | MicroNets-更小更快更好的MicroNet，三大CV任务都秒杀MobileNetV3](https://zhuanlan.zhihu.com/p/400661708)  
     [【MicroNet: Improving Image Recognition with Extremely Low FLOPs】](https://arxiv.org/abs/2108.05894)
 ### 多任务（Multi-Task）
 - [ICCV2021-MuST-还在特定任务里为刷点而苦苦挣扎？谷歌的大佬们都已经开始玩多任务训练了](https://zhuanlan.zhihu.com/p/406014791)  
     [【Multi-Task Self-Training for Learning General Representations】](https://arxiv.org/abs/2108.11353)
+
 - [ICCV2021-CV多任务新进展！一节更比三节强的MultiTask CenterNet，用一个网络同时完成目标检测、语义分割和人体姿态估计三个任务](https://zhuanlan.zhihu.com/p/405652732)  
     [【MultiTask-CenterNet (MCN): Efficient and Diverse Multitask Learning using an Anchor Free Approach】](https://arxiv.org/abs/2108.05060)
 ### 其他
 - [ICCV 2021｜“白嫖”性能的MixMo，一种新的数据增强or模型融合方法](https://zhuanlan.zhihu.com/p/396528978)   
     [【MicroNet: Improving Image Recognition with Extremely Low FLOPs】](https://arxiv.org/abs/2108.05894)
+
 - [ICCV'21 Oral｜拒绝调参，显著提点！检测分割任务的新损失函数RS Loss开源](https://zhuanlan.zhihu.com/p/397519850)  
     [【Rank & Sort Loss for Object Detection and Instance Segmentation】](https://arxiv.org/abs/2107.11669)
+
 - [ICCV21 | 大道至简，仅需4行代码提升多标签分类性能！ 南大提出Residual Attention](https://zhuanlan.zhihu.com/p/397990353)  
     [【Residual Attention: A Simple but Effective Method for Multi-Label Recognition】](https://arxiv.org/abs/2108.02456)
-- []()
+
+- [ICCV2021 Oral-UNO-用于Novel Class Discovery 的统一目标函数，简化训练流程！已开源！](https://zhuanlan.zhihu.com/p/407365987)  
+    [【A Unified Objective for Novel Class Discovery】](https://arxiv.org/abs/2108.08536)
+
+
 
 ## ACM MM2021
 ### 主干网络（Backbone，CNN，Transformer）
