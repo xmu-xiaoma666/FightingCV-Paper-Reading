@@ -144,6 +144,11 @@ Hello，大家好，我是小马🚀🚀🚀
 - [SIGIR 2021 最佳学生论文-图像文本检索的动态模态交互建模](https://zhuanlan.zhihu.com/p/402122260)  
     [【Dynamic Modality Interaction Modeling for Image-Text Retrieval】](https://dl.acm.org/doi/abs/10.1145/3404835.3462829)
 
+    
+- [SimVLM-拒绝各种花里胡哨！CMU&Google提出弱监督极简VLP模型，在多个多模态任务上性能SOTA](https://zhuanlan.zhihu.com/p/406354414)  
+    [【SimVLM: Simple Visual Language Model Pretraining with Weak Supervision】](https://zhuanlan.zhihu.com/p/406354414)
+
+
 ## ArXiv
 ### 主干网络（Backbone，CNN，Transformer）
 - [OutLook Attention：具有局部信息感知能力的ViT](https://zhuanlan.zhihu.com/p/385561050)  
@@ -203,7 +208,7 @@ Hello，大家好，我是小马🚀🚀🚀
 - [DynamicViT-还在用全部token训练ViT？清华&UCLA提出token的动态稀疏化采样，降低inference时的计算量](https://zhuanlan.zhihu.com/p/405326718)  
     [【DynamicViT: Effificient Vision Transformers with Dynamic Token Sparsifification】](https://arxiv.org/abs/2106.02034)
     
-- [SimVLM-拒绝各种花里胡哨！CMU&Google提出弱监督极简VLP模型，在多个多模态任务上性能SOTA](https://zhuanlan.zhihu.com/p/406354414)  
-    [【SimVLM: Simple Visual Language Model Pretraining with Weak Supervision】](https://zhuanlan.zhihu.com/p/406354414)
+- [拒绝Prompt Engineering，NTU提出CoOp，自适应学习不同下游任务的Prompt，性能碾压手工设计的Prompt](https://zhuanlan.zhihu.com/p/408190719)  
+    [【Learning to Prompt for Vision-Language Models】](https://arxiv.org/abs/2109.01134)
 
 
