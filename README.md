@@ -187,6 +187,8 @@ Hello，大家好，我是小马🚀🚀🚀
 - [在目标检测任务上怒涨8.6 AP，微软新作MobileFormer](https://zhuanlan.zhihu.com/p/400291282)  
     [【Mobile-Former: Bridging MobileNet and Transformer】](https://arxiv.org/abs/2108.05895)
 
+- [又简单又好用的Transformer变体！清华&MSRA开源线性复杂度的Fastformer！](https://zhuanlan.zhihu.com/p/409050589)  
+    [【Fastformer: Additive Attention Can Be All You Need】](https://arxiv.org/abs/2108.09084)
 
 ### 语义分割&实例分割（Segmentation）
 - [MaskFormer：语义分割、实例分割“大一统”：Facebook&UIUC提出MaskFormer](https://zhuanlan.zhihu.com/p/392731360)  
