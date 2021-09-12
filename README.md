@@ -124,6 +124,8 @@ Hello，大家好，我是小马🚀🚀🚀
 - [ICCV2021 Oral-UNO-用于Novel Class Discovery 的统一目标函数，简化训练流程！已开源！](https://zhuanlan.zhihu.com/p/407365987)  
     [【A Unified Objective for Novel Class Discovery】](https://arxiv.org/abs/2108.08536)
 
+- [ICCV2021-别魔改网络了，模型精度不高，是你Resize的方法不够好！Google提出基于DL的调整器模型学习更好的Resize方法](https://zhuanlan.zhihu.com/p/409582813)  
+    [【Learning to Resize Images for Computer Vision Tasks】](https://arxiv.org/abs/2103.09950)
 
 
 ## ACM MM2021
