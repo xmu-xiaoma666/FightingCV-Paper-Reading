@@ -193,6 +193,9 @@ Hello，大家好，我是小马🚀🚀🚀
 - [又简单又好用的Transformer变体！清华&MSRA开源线性复杂度的Fastformer！](https://zhuanlan.zhihu.com/p/409050589)  
     [【Fastformer: Additive Attention Can Be All You Need】](https://arxiv.org/abs/2108.09084)
 
+- [《Visformer》-对视觉任务更友好的Transformer，北航团队开源Visformer！](https://zhuanlan.zhihu.com/p/409784985)  
+    [【Visformer: The Vision-friendly Transformer】](https://arxiv.org/abs/2104.12533v4)
+
 ### 语义分割&实例分割（Segmentation）
 - [MaskFormer：语义分割、实例分割“大一统”：Facebook&UIUC提出MaskFormer](https://zhuanlan.zhihu.com/p/392731360)  
     [【Per-Pixel Classification is Not All You Need for Semantic Segmentation】](https://arxiv.org/abs/2107.06278)
