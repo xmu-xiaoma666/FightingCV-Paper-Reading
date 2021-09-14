@@ -196,6 +196,10 @@ Hello，大家好，我是小马🚀🚀🚀
 - [《Visformer》-对视觉任务更友好的Transformer，北航团队开源Visformer！](https://zhuanlan.zhihu.com/p/409784985)  
     [【Visformer: The Vision-friendly Transformer】](https://arxiv.org/abs/2104.12533v4)
 
+- [《CrossFormer》-简单高效！浙大CAD&腾讯&哥大开源跨尺度的Transformer，显著涨点检测、分割、分类三大CV任务](https://zhuanlan.zhihu.com/p/410155334)  
+    [【CrossFormer: A Versatile Vision Transformer Based on Cross-scale Attention】](https://arxiv.org/abs/2108.00154)
+
+
 ### 语义分割&实例分割（Segmentation）
 - [MaskFormer：语义分割、实例分割“大一统”：Facebook&UIUC提出MaskFormer](https://zhuanlan.zhihu.com/p/392731360)  
     [【Per-Pixel Classification is Not All You Need for Semantic Segmentation】](https://arxiv.org/abs/2107.06278)
