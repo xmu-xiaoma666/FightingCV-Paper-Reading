@@ -33,37 +33,6 @@ Hello，大家好，我是小马🚀🚀🚀
 
 
 
-## CVPR2021
-### 多模态（Multi-Modal）
-- [Less is More-CVPR2021最佳学生论文提名](https://zhuanlan.zhihu.com/p/388824565)  
-    [【Less is More: CLIPBERT for Video-and-Language Learning via Sparse Sampling】](https://arxiv.org/abs/2102.06183)
-
-- [CVPR2021-RSTNet：自适应Attention的“看图说话”模型](https://zhuanlan.zhihu.com/p/394793465)  
-    [【RSTNet: Captioning With Adaptive Attention on Visual and Non-Visual Words】](https://openaccess.thecvf.com/content/CVPR2021/html/Zhang_RSTNet_Captioning_With_Adaptive_Attention_on_Visual_and_Non-Visual_Words_CVPR_2021_paper.html)
-
-- [CVPR2021 Oral《Seeing Out of the Box》北科大&中山大学&微软提出端到端视觉语言表征预训练方法](https://zhuanlan.zhihu.com/p/395982625)   
-    [【Seeing Out of the Box: End-to-End Pre-Training for Vision-Language Representation Learning】](https://openaccess.thecvf.com/content/CVPR2021/html/Huang_Seeing_Out_of_the_Box_End-to-End_Pre-Training_for_Vision-Language_Representation_CVPR_2021_paper.html)
-
-- [CVPR2021-开放式的Video Captioning，中科院自动化所提出基于“检索-复制-生成”的网络](https://zhuanlan.zhihu.com/p/401333569)   
-    [【Open-book Video Captioning with Retrieve-Copy-Generate Network】](https://arxiv.org/abs/2103.05284)
-
-- [CVPR2021-多模态任务新进展！哥大&Facebook提出VX2TEXT模型，实现了“视频+X”到“文本”的任务](https://zhuanlan.zhihu.com/p/403340498)   
-    [【VX2TEXT: End-to-End Learning of Video-Based Text Generation From Multimodal Inputs】](https://arxiv.org/abs/2101.12059)
-
-- [CVPR2021-人大提出新模型，将Two Stage的Video Paragraph Captioning变成One Stage，性能却没下降](https://zhuanlan.zhihu.com/p/404419987)   
-    [【Towards Diverse Paragraph Captioning for Untrimmed Videos】](https://arxiv.org/abs/2105.14477)
-
-### 主干网络（Backbone，CNN，Transformer）
-- [谷歌新作HaloNet：Transformer一作用Self-Attention的方式进行卷积](https://zhuanlan.zhihu.com/p/388598744)  
-    [【Scaling Local Self-Attention for Parameter Efficient Visual Backbones】](https://zhuanlan.zhihu.com/p/388598744)
-
-- [Involution（附对Involution的思考）：港科大、字节跳动、北大提出“内卷”神经网络算子，在CV三大任务上提点明显](https://zhuanlan.zhihu.com/p/395950242)  
-    [【Involution: Inverting the Inherence of Convolution for Visual Recognition】](https://arxiv.org/pdf/2103.06255.pdf)
-
-
-
-
-
 ## ICCV2021
 ### 多模态（Multi-Modal）
 - [ICCV2021 Oral-MDETR：图灵奖得主Yann LeCun的团队&Facebook提出端到端多模态理解的目标检测器](https://zhuanlan.zhihu.com/p/394239659)  
@@ -139,6 +108,41 @@ Hello，大家好，我是小马🚀🚀🚀
 
 - [ACMMM 2021-性能SOTA！用GNN和GAN的方式来强化Video Captioning的学习！](https://zhuanlan.zhihu.com/p/403895573)  
     [【Discriminative Latent Semantic Graph for Video Captioning】](https://arxiv.org/abs/2108.03662)
+
+## ICML2021
+### 预训练（pre-train）
+- [ICML2021-《ALIGN》-大力出奇迹，谷歌用18亿的图像-文本对训练了一个这样的模型。](https://zhuanlan.zhihu.com/p/410499923)  
+    [【Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision】](https://zhuanlan.zhihu.com/p/410499923)
+
+## CVPR2021
+### 多模态（Multi-Modal）
+- [Less is More-CVPR2021最佳学生论文提名](https://zhuanlan.zhihu.com/p/388824565)  
+    [【Less is More: CLIPBERT for Video-and-Language Learning via Sparse Sampling】](https://arxiv.org/abs/2102.06183)
+
+- [CVPR2021-RSTNet：自适应Attention的“看图说话”模型](https://zhuanlan.zhihu.com/p/394793465)  
+    [【RSTNet: Captioning With Adaptive Attention on Visual and Non-Visual Words】](https://openaccess.thecvf.com/content/CVPR2021/html/Zhang_RSTNet_Captioning_With_Adaptive_Attention_on_Visual_and_Non-Visual_Words_CVPR_2021_paper.html)
+
+- [CVPR2021 Oral《Seeing Out of the Box》北科大&中山大学&微软提出端到端视觉语言表征预训练方法](https://zhuanlan.zhihu.com/p/395982625)   
+    [【Seeing Out of the Box: End-to-End Pre-Training for Vision-Language Representation Learning】](https://openaccess.thecvf.com/content/CVPR2021/html/Huang_Seeing_Out_of_the_Box_End-to-End_Pre-Training_for_Vision-Language_Representation_CVPR_2021_paper.html)
+
+- [CVPR2021-开放式的Video Captioning，中科院自动化所提出基于“检索-复制-生成”的网络](https://zhuanlan.zhihu.com/p/401333569)   
+    [【Open-book Video Captioning with Retrieve-Copy-Generate Network】](https://arxiv.org/abs/2103.05284)
+
+- [CVPR2021-多模态任务新进展！哥大&Facebook提出VX2TEXT模型，实现了“视频+X”到“文本”的任务](https://zhuanlan.zhihu.com/p/403340498)   
+    [【VX2TEXT: End-to-End Learning of Video-Based Text Generation From Multimodal Inputs】](https://arxiv.org/abs/2101.12059)
+
+- [CVPR2021-人大提出新模型，将Two Stage的Video Paragraph Captioning变成One Stage，性能却没下降](https://zhuanlan.zhihu.com/p/404419987)   
+    [【Towards Diverse Paragraph Captioning for Untrimmed Videos】](https://arxiv.org/abs/2105.14477)
+
+### 主干网络（Backbone，CNN，Transformer）
+- [谷歌新作HaloNet：Transformer一作用Self-Attention的方式进行卷积](https://zhuanlan.zhihu.com/p/388598744)  
+    [【Scaling Local Self-Attention for Parameter Efficient Visual Backbones】](https://zhuanlan.zhihu.com/p/388598744)
+
+- [Involution（附对Involution的思考）：港科大、字节跳动、北大提出“内卷”神经网络算子，在CV三大任务上提点明显](https://zhuanlan.zhihu.com/p/395950242)  
+    [【Involution: Inverting the Inherence of Convolution for Visual Recognition】](https://arxiv.org/pdf/2103.06255.pdf)
+
+
+
 
 
 
