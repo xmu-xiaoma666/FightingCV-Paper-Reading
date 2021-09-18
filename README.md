@@ -97,6 +97,9 @@ Hello，大家好，我是小马🚀🚀🚀
 - [ICCV2021-别魔改网络了，模型精度不高，是你Resize的方法不够好！Google提出基于DL的调整器模型学习更好的Resize方法](https://zhuanlan.zhihu.com/p/409582813)  
     [【Learning to Resize Images for Computer Vision Tasks】](https://arxiv.org/abs/2103.09950)
 
+- [ICCV2021-《GroupFormer》-商汤&港理工提出基于聚类的联合建模时空关系的GroupFormer用于解决群体活动识别问题，性能SOTA](https://zhuanlan.zhihu.com/p/411653407)  
+    [【GroupFormer: Group Activity Recognition with Clustered Spatial-Temporal Transformer】](https://arxiv.org/abs/2108.12630)
+
 
 ## ACM MM2021
 ### 主干网络（Backbone，CNN，Transformer）
