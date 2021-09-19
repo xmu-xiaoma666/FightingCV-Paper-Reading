@@ -31,6 +31,11 @@ Hello，大家好，我是小马🚀🚀🚀
 强烈推荐大家关注[**知乎**](https://www.zhihu.com/people/jason-14-58-38/posts)账号和[**FightingCV公众号**](https://mp.weixin.qq.com/s/sgNw6XFBPcD20Ef3ddfE1w)，可以快速了解到最新优质的干货资源。
 
 
+## EMNLP2021
+### 多模态（Multi-Modal）
+- [多模态Transformer真的多模态了吗？论多模态Transformer对跨模态的影响](https://zhuanlan.zhihu.com/p/411890653)  
+    [【Vision-and-Language or Vision-for-Language? On Cross-Modal Inflfluence in Multimodal Transformers】](https://arxiv.org/abs/2109.04448)
+
 
 
 ## ICCV2021
@@ -230,4 +235,7 @@ Hello，大家好，我是小马🚀🚀🚀
 - [拒绝Prompt Engineering，NTU提出CoOp，自适应学习不同下游任务的Prompt，性能碾压手工设计的Prompt](https://zhuanlan.zhihu.com/p/408190719)  
     [【Learning to Prompt for Vision-Language Models】](https://arxiv.org/abs/2109.01134)
 
+    
+- [《Anchor DETR》-加了Anchor Point能够让DETR又快又好？旷视孙剑团队提出Anchor DETR](https://zhuanlan.zhihu.com/p/411889426)  
+    [【Anchor DETR: Query Design for Transformer-Based Detector】](https://arxiv.org/abs/2109.07107)
 
