@@ -239,3 +239,6 @@ Hello，大家好，我是小马🚀🚀🚀
 - [《Anchor DETR》-加了Anchor Point能够让DETR又快又好？旷视孙剑团队提出Anchor DETR](https://zhuanlan.zhihu.com/p/411889426)  
     [【Anchor DETR: Query Design for Transformer-Based Detector】](https://arxiv.org/abs/2109.07107)
 
+
+- [加速了DeiT-S 60%+的吞吐量！自动化所&上交&优图提出Evo-ViT，用Slow-Fast的方式更新token](https://zhuanlan.zhihu.com/p/412199816)  
+    [【Evo-ViT: Slow-Fast Token Evolution for Dynamic Vision Transformer】](https://arxiv.org/abs/2108.01390v3)
