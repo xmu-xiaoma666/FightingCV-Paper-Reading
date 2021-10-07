@@ -30,13 +30,14 @@ Hello，大家好，我是小马🚀🚀🚀
 
 强烈推荐大家关注[**知乎**](https://www.zhihu.com/people/jason-14-58-38/posts)账号和[**FightingCV公众号**](https://mp.weixin.qq.com/s/sgNw6XFBPcD20Ef3ddfE1w)，可以快速了解到最新优质的干货资源。
 
+***
 
 ## EMNLP2021
 ### 多模态（Multi-Modal）
 - [多模态Transformer真的多模态了吗？论多模态Transformer对跨模态的影响](https://zhuanlan.zhihu.com/p/411890653)  
     [【Vision-and-Language or Vision-for-Language? On Cross-Modal Inflfluence in Multimodal Transformers】](https://arxiv.org/abs/2109.04448)
 
-
+***
 
 ## ICCV2021
 ### 多模态（Multi-Modal）
@@ -54,6 +55,13 @@ Hello，大家好，我是小马🚀🚀🚀
 
 - [ICCV2021 Oral-新任务！新数据集！康奈尔大学提出了类似VG但又不是VG的PVG任务](https://zhuanlan.zhihu.com/p/407102211)  
     [【Who’s Waldo? Linking People Across Text and Images】](https://arxiv.org/abs/2108.07253)
+
+
+- [ICCV2021-新任务！NTU&港中文提出以对话的方式进行细粒度的图片编辑](https://zhuanlan.zhihu.com/p/418089405) 
+    [Talk-to-Edit: Fine-Grained Facial Editing via Dialog](https://arxiv.org/abs/2109.04425)
+
+
+
 
 ### 对比学习（Contrastive Learning）
 - [ICCV2021-DetCo：性能优于何恺明等人提出的MoCo v2，为目标检测定制任务的对比学习。](https://zhuanlan.zhihu.com/p/393202411)  
@@ -80,15 +88,32 @@ Hello，大家好，我是小马🚀🚀🚀
 
 - [ICCV2021 | MicroNets-更小更快更好的MicroNet，三大CV任务都秒杀MobileNetV3](https://zhuanlan.zhihu.com/p/400661708)  
     [【MicroNet: Improving Image Recognition with Extremely Low FLOPs】](https://arxiv.org/abs/2108.05894)
+
+
+- [ICCV2021-MIT-IBM AI Lab开源CrossViT，Transformer开始走向多分支、多尺度（附目前多尺度ViT的异同点对比）](https://zhuanlan.zhihu.com/p/418086070)  
+    [【CrossViT: Cross-Attention Multi-Scale Vision Transformer for Image Classification】](https://arxiv.org/abs/2103.14899)
+
+
+
 ### 多任务（Multi-Task）
 - [ICCV2021-MuST-还在特定任务里为刷点而苦苦挣扎？谷歌的大佬们都已经开始玩多任务训练了](https://zhuanlan.zhihu.com/p/406014791)  
     [【Multi-Task Self-Training for Learning General Representations】](https://arxiv.org/abs/2108.11353)
 
 - [ICCV2021-CV多任务新进展！一节更比三节强的MultiTask CenterNet，用一个网络同时完成目标检测、语义分割和人体姿态估计三个任务](https://zhuanlan.zhihu.com/p/405652732)  
     [【MultiTask-CenterNet (MCN): Efficient and Diverse Multitask Learning using an Anchor Free Approach】](https://arxiv.org/abs/2108.05060)
-### 其他
-- [ICCV 2021｜“白嫖”性能的MixMo，一种新的数据增强or模型融合方法](https://zhuanlan.zhihu.com/p/396528978)   
+
+### 数据增强
+
+- [ICCV 2021｜“白嫖”性能的MixMo，一种新的数据增强or模型融合方法](https://zhuanlan.zhihu.com/p/418098973)   
     [【MicroNet: Improving Image Recognition with Extremely Low FLOPs】](https://arxiv.org/abs/2108.05894)
+
+
+- [ICCV2021 Oral-简单高效的数据增强！华为提出了一种简单的鲁棒目标检测自适应方法](https://zhuanlan.zhihu.com/p/396528978)   
+    [【SimROD: A Simple Adaptation Method for Robust Object Detection】](https://arxiv.org/abs/2107.13389)
+
+
+### 其他
+
 
 - [ICCV'21 Oral｜拒绝调参，显著提点！检测分割任务的新损失函数RS Loss开源](https://zhuanlan.zhihu.com/p/397519850)  
     [【Rank & Sort Loss for Object Detection and Instance Segmentation】](https://arxiv.org/abs/2107.11669)
@@ -106,6 +131,11 @@ Hello，大家好，我是小马🚀🚀🚀
     [【GroupFormer: Group Activity Recognition with Clustered Spatial-Temporal Transformer】](https://arxiv.org/abs/2108.12630)
 
 
+- [ICCV2021-去除冗余token的DETR效果怎么样？NUS颜水成大佬团队给出了答案！](https://zhuanlan.zhihu.com/p/415579801)  
+    [【PnP-DETR: Towards Efficient Visual Analysis with Transformers】](https://arxiv.org/abs/2109.07036)
+
+***
+
 ## ACM MM2021
 ### 主干网络（Backbone，CNN，Transformer）
 - [ACM MM2021-还在用ViT的16x16 Patch分割方法吗？中科院自动化所提出Deformable Patch-based方法，涨点显著！](https://zhuanlan.zhihu.com/p/399417704)  
@@ -117,10 +147,14 @@ Hello，大家好，我是小马🚀🚀🚀
 - [ACMMM 2021-性能SOTA！用GNN和GAN的方式来强化Video Captioning的学习！](https://zhuanlan.zhihu.com/p/403895573)  
     [【Discriminative Latent Semantic Graph for Video Captioning】](https://arxiv.org/abs/2108.03662)
 
+***
+
 ## ICML2021
 ### 预训练（pre-train）
 - [ICML2021-《ALIGN》-大力出奇迹，谷歌用18亿的图像-文本对训练了一个这样的模型。](https://zhuanlan.zhihu.com/p/410499923)  
     [【Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision】](https://zhuanlan.zhihu.com/p/410499923)
+
+***
 
 ## CVPR2021
 ### 多模态（Multi-Modal）
@@ -151,7 +185,12 @@ Hello，大家好，我是小马🚀🚀🚀
 
 
 
+- [CVPR2021-比CNN和Transformer更好的Backbone？UC Berkeley&Google Research,提出BoTNet，ImageNet上精度达84.7%](https://zhuanlan.zhihu.com/p/418096136)  
+    [【Bottleneck Transformers for Visual Recognition】](https://arxiv.org/abs/2101.11605)
 
+
+
+***
 
 
 ## SIGIR 2021
@@ -163,6 +202,18 @@ Hello，大家好，我是小马🚀🚀🚀
 - [SimVLM-拒绝各种花里胡哨！CMU&Google提出弱监督极简VLP模型，在多个多模态任务上性能SOTA](https://zhuanlan.zhihu.com/p/406354414)  
     [【SimVLM: Simple Visual Language Model Pretraining with Weak Supervision】](https://zhuanlan.zhihu.com/p/406354414)
 
+***
+
+## NeurIPS2021
+### Transformer
+- [Multi-Scale Densenet续作？动态ViT](https://zhuanlan.zhihu.com/p/386929227)  
+    [【Not All Images are Worth 16x16 Words: Dynamic Vision Transformers with Adaptive Sequence Length】](https://arxiv.org/abs/2105.15075)
+
+- [微软新作Focal Self-Attention：具备Local和Global交互能力的Transformer](https://zhuanlan.zhihu.com/p/387693270)  
+    [【Focal Self-attention for Local-Global Interactions in Vision Transformers】](https://arxiv.org/abs/2107.00641)
+
+
+***
 
 ## ArXiv
 ### 主干网络（Backbone，CNN，Transformer）
@@ -172,11 +223,6 @@ Hello，大家好，我是小马🚀🚀🚀
 - [CoAtNet：卷积+注意力=？？？](https://zhuanlan.zhihu.com/p/385578588)  
     [【CoAtNet: Marrying Convolution and Attention for All Data Sizes】](https://arxiv.org/abs/2106.04803)
 
-- [Multi-Scale Densenet续作？动态ViT](https://zhuanlan.zhihu.com/p/386929227)  
-    [【Not All Images are Worth 16x16 Words: Dynamic Vision Transformers with Adaptive Sequence Length】](https://arxiv.org/abs/2105.15075)
-
-- [微软新作Focal Self-Attention：具备Local和Global交互能力的Transformer](https://zhuanlan.zhihu.com/p/387693270)  
-    [【Focal Self-attention for Local-Global Interactions in Vision Transformers】](https://arxiv.org/abs/2107.00641)
 
 - [CSWin-T：微软、中科大提出十字形注意力的CSWin Transformer](https://zhuanlan.zhihu.com/p/388370370)  
     [【CSWin Transformer: A General Vision Transformer Backbone with Cross-Shaped Windows】](https://arxiv.org/abs/2107.00652)
@@ -220,6 +266,15 @@ Hello，大家好，我是小马🚀🚀🚀
     [【Polarized Self-Attention: Towards High-quality Pixel-wise Regression】](https://arxiv.org/pdf/2107.00782.pdf)
 
 
+- [全景分割第一名！南大&港大&NVIDIA提出Panoptic SegFormer，霸榜全景分割](https://zhuanlan.zhihu.com/p/418088118)  
+    [【Panoptic SegFormer】](https://arxiv.org/abs/2109.03814)
+
+
+
+
+
+
+
 ### 增量学习（Incremental Learning）
 - [让模型实现“终生学习”，佐治亚理工学院提出Data-Free的增量学习](https://zhuanlan.zhihu.com/p/399085992)  
     [【Always Be Dreaming: A New Approach for Data-Free Class-Incremental Learning】](https://arxiv.org/abs/2106.09701)
@@ -242,3 +297,31 @@ Hello，大家好，我是小马🚀🚀🚀
 
 - [加速了DeiT-S 60%+的吞吐量！自动化所&上交&优图提出Evo-ViT，用Slow-Fast的方式更新token](https://zhuanlan.zhihu.com/p/412199816)  
     [【Evo-ViT: Slow-Fast Token Evolution for Dynamic Vision Transformer】](https://arxiv.org/abs/2108.01390v3)
+
+
+- [加了Anchor Point能够让DETR又快又好？旷视孙剑大佬团队提出Anchor DETR](https://zhuanlan.zhihu.com/p/415578473)  
+    [【Anchor DETR: Query Design for Transformer-Based Detector】](https://arxiv.org/abs/2109.07107)
+    
+
+- [Self-Attention真的是必要的吗？微软&中科大提出Sparse MLP，降低计算量的同时提升性能！](https://zhuanlan.zhihu.com/p/418093199)  
+    [【Sparse MLP for Image Recognition: Is Self-Attention Really Necessary?】](https://arxiv.org/abs/2109.05422)
+
+
+
+- [你见过长得像CNN的MLP吗？UO&UIUC提出了用于视觉任务的层次卷积MLP](https://zhuanlan.zhihu.com/p/418094475)  
+    [【ConvMLP: Hierarchical Convolutional MLPs for Vision】](https://arxiv.org/abs/2109.04454)
+
+
+
+- [目标检测再次革新！图灵奖得主Hinton团队提出Pix2Seq，将Detection变成了Image Captioning](https://zhuanlan.zhihu.com/p/418095279)  
+    [【Pix2seq: A Language Modeling Framework for Object Detection】](https://arxiv.org/abs/2109.10852)
+
+
+
+- [消除预训练模型的语言限制！Google提出跨语言的多模态、多任务检索模型MURAL](https://zhuanlan.zhihu.com/p/418098303)  
+    [【MURAL: Multimodal, Multitask Retrieval Across Languages】](https://arxiv.org/abs/2109.05125v1)
+
+    
+
+- [压缩之后神经网络忘记了什么？Google研究员给出了答案](https://zhuanlan.zhihu.com/p/418099910)  
+    [【What Do Compressed Deep Neural Networks Forget?】](https://arxiv.org/abs/1911.05248)
