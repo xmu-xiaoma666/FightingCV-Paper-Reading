@@ -58,9 +58,12 @@ Hello，大家好，我是小马🚀🚀🚀
 
 
 - [ICCV2021-新任务！NTU&港中文提出以对话的方式进行细粒度的图片编辑](https://zhuanlan.zhihu.com/p/418089405) 
-    [Talk-to-Edit: Fine-Grained Facial Editing via Dialog](https://arxiv.org/abs/2109.04425)
+    [【Talk-to-Edit: Fine-Grained Facial Editing via Dialog】](https://arxiv.org/abs/2109.04425)
 
 
+
+- [ICCV2021-用DETR的方法做Dense Video Captioning！港大&南科大提出端到端PDVC，简化训练流程。](https://zhuanlan.zhihu.com/p/418100751) 
+    [【End-to-End Dense Video Captioning with Parallel Decoding】](https://arxiv.org/abs/2108.07781)
 
 
 ### 对比学习（Contrastive Learning）
