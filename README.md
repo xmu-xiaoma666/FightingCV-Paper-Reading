@@ -37,6 +37,9 @@ Hello，大家好，我是小马🚀🚀🚀
 - [多模态Transformer真的多模态了吗？论多模态Transformer对跨模态的影响](https://zhuanlan.zhihu.com/p/411890653)  
     [【Vision-and-Language or Vision-for-Language? On Cross-Modal Inflfluence in Multimodal Transformers】](https://arxiv.org/abs/2109.04448)
 
+- [EMNLP2021-“Transformer+预训练”再下一城，港科大开源高效的多模态摘要总结网络](https://zhuanlan.zhihu.com/p/418923591)  
+    [【Vision Guided Generative Pre-trained Language Models for Multimodal Abstractive Summarization】](https://arxiv.org/abs/2109.02401)
+
 ***
 
 ## ICCV2021
