@@ -189,11 +189,14 @@ Hello，大家好，我是小马🚀🚀🚀
 - [Involution（附对Involution的思考）：港科大、字节跳动、北大提出“内卷”神经网络算子，在CV三大任务上提点明显](https://zhuanlan.zhihu.com/p/395950242)  
     [【Involution: Inverting the Inherence of Convolution for Visual Recognition】](https://arxiv.org/pdf/2103.06255.pdf)
 
-
-
 - [CVPR2021-比CNN和Transformer更好的Backbone？UC Berkeley&Google Research,提出BoTNet，ImageNet上精度达84.7%](https://zhuanlan.zhihu.com/p/418096136)  
     [【Bottleneck Transformers for Visual Recognition】](https://arxiv.org/abs/2101.11605)
 
+### 目标检测（Detection）
+
+
+- [CVPR2021 Oral-收敛更快！精度更高！南科大&腾讯微信团队重磅开源无监督预训练的UP-DETR](https://zhuanlan.zhihu.com/p/419660108)  
+    [【UP-DETR: Unsupervised Pre-training for Object Detection with Transformers】](https://arxiv.org/abs/2011.09094)
 
 
 ***
