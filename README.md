@@ -288,6 +288,10 @@ Hello，大家好，我是小马🚀🚀🚀
 - [让模型实现“终生学习”，佐治亚理工学院提出Data-Free的增量学习](https://zhuanlan.zhihu.com/p/399085992)  
     [【Always Be Dreaming: A New Approach for Data-Free Class-Incremental Learning】](https://arxiv.org/abs/2106.09701)
 
+### 多模态（Multi-Modal）
+- [国科大提出用于VideoQA的跨模态交互时间金字塔Transformer](https://zhuanlan.zhihu.com/p/419923517)  
+    [【Temporal Pyramid Transformer with Multimodal Interaction for Video Question Answering】](https://arxiv.org/abs/2109.04735)
+
 
 ### 其他
 - [Video Swin Transformer-既Swin Transformer之后，MSRA开源Video Swin Transformer，在视频数据集上SOTA](https://zhuanlan.zhihu.com/p/401600421)  
