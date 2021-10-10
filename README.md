@@ -10,7 +10,7 @@ Hello，大家好，我是小马🚀🚀🚀
 
 本项目的宗旨是🚀**让世界上没有难读的论文**🚀，论文主题包括但不限于检测、分类、分割、Backbone、多模态等等，论文来源包括但不限于最新的arXiv论文、ICCV2021、CVPR2021、MM2021。**(项目会保持持续更新，每周至少三篇)**⭐⭐⭐
  
-
+ 
 （最新还更新了[【Attention、MLP、Conv、MLP、Backbone的代码复现项目】](https://github.com/xmu-xiaoma666/External-Attention-pytorch)，欢迎大家学习交流）
 
 
