@@ -267,7 +267,21 @@ Hello，大家好，我是小马🚀🚀🚀
     [【CrossFormer: A Versatile Vision Transformer Based on Cross-scale Attention】](https://arxiv.org/abs/2108.00154)
 
 
-### 语义分割&实例分割（Segmentation）
+- [你见过长得像CNN的MLP吗？UO&UIUC提出了用于视觉任务的层次卷积MLP](https://zhuanlan.zhihu.com/p/418094475)  
+    [【ConvMLP: Hierarchical Convolutional MLPs for Vision】](https://arxiv.org/abs/2109.04454)
+
+
+- [Self-Attention真的是必要的吗？微软&中科大提出Sparse MLP，降低计算量的同时提升性能！](https://zhuanlan.zhihu.com/p/418093199)  
+    [【Sparse MLP for Image Recognition: Is Self-Attention Really Necessary?】](https://arxiv.org/abs/2109.05422)
+
+
+
+- [目标检测再次革新！图灵奖得主Hinton团队提出Pix2Seq，将Detection变成了Image Captioning](https://zhuanlan.zhihu.com/p/418095279)  
+    [【Pix2seq: A Language Modeling Framework for Object Detection】](https://arxiv.org/abs/2109.10852)
+
+
+
+### 分割（Segmentation）
 - [MaskFormer：语义分割、实例分割“大一统”：Facebook&UIUC提出MaskFormer](https://zhuanlan.zhihu.com/p/392731360)  
     [【Per-Pixel Classification is Not All You Need for Semantic Segmentation】](https://arxiv.org/abs/2107.06278)
 
@@ -280,8 +294,14 @@ Hello，大家好，我是小马🚀🚀🚀
 
 
 
+### 检测（Detection）
+- [《Anchor DETR》-加了Anchor Point能够让DETR又快又好？旷视孙剑团队提出Anchor DETR](https://zhuanlan.zhihu.com/p/411889426)  
+    [【Anchor DETR: Query Design for Transformer-Based Detector】](https://arxiv.org/abs/2109.07107)
 
 
+
+- [加了Anchor Point能够让DETR又快又好？旷视孙剑大佬团队提出Anchor DETR](https://zhuanlan.zhihu.com/p/415578473)  
+    [【Anchor DETR: Query Design for Transformer-Based Detector】](https://arxiv.org/abs/2109.07107)
 
 
 ### 增量学习（Incremental Learning）
@@ -293,48 +313,38 @@ Hello，大家好，我是小马🚀🚀🚀
     [【Temporal Pyramid Transformer with Multimodal Interaction for Video Question Answering】](https://arxiv.org/abs/2109.04735)
 
 
-### 其他
+### 视频（Video）
 - [Video Swin Transformer-既Swin Transformer之后，MSRA开源Video Swin Transformer，在视频数据集上SOTA](https://zhuanlan.zhihu.com/p/401600421)  
     [【Video Swin Transformer】](https://arxiv.org/abs/2106.13230)
+
+- [基于时空混合attention的视频Transformer，大幅度降低计算复杂度](https://zhuanlan.zhihu.com/p/420280467)  
+    [【Space-time Mixing Attention for Video Transformer】](https://arxiv.org/abs/2106.05968)
+
+
+
+### 压缩加速
 
 - [DynamicViT-还在用全部token训练ViT？清华&UCLA提出token的动态稀疏化采样，降低inference时的计算量](https://zhuanlan.zhihu.com/p/405326718)  
     [【DynamicViT: Effificient Vision Transformers with Dynamic Token Sparsifification】](https://arxiv.org/abs/2106.02034)
     
-- [拒绝Prompt Engineering，NTU提出CoOp，自适应学习不同下游任务的Prompt，性能碾压手工设计的Prompt](https://zhuanlan.zhihu.com/p/408190719)  
-    [【Learning to Prompt for Vision-Language Models】](https://arxiv.org/abs/2109.01134)
-
-    
-- [《Anchor DETR》-加了Anchor Point能够让DETR又快又好？旷视孙剑团队提出Anchor DETR](https://zhuanlan.zhihu.com/p/411889426)  
-    [【Anchor DETR: Query Design for Transformer-Based Detector】](https://arxiv.org/abs/2109.07107)
-
 
 - [加速了DeiT-S 60%+的吞吐量！自动化所&上交&优图提出Evo-ViT，用Slow-Fast的方式更新token](https://zhuanlan.zhihu.com/p/412199816)  
     [【Evo-ViT: Slow-Fast Token Evolution for Dynamic Vision Transformer】](https://arxiv.org/abs/2108.01390v3)
 
 
-- [加了Anchor Point能够让DETR又快又好？旷视孙剑大佬团队提出Anchor DETR](https://zhuanlan.zhihu.com/p/415578473)  
-    [【Anchor DETR: Query Design for Transformer-Based Detector】](https://arxiv.org/abs/2109.07107)
+- [压缩之后神经网络忘记了什么？Google研究员给出了答案](https://zhuanlan.zhihu.com/p/418099910)  
+    [【What Do Compressed Deep Neural Networks Forget?】](https://arxiv.org/abs/1911.05248)
+
+
+### 其他
+
+
+- [拒绝Prompt Engineering，NTU提出CoOp，自适应学习不同下游任务的Prompt，性能碾压手工设计的Prompt](https://zhuanlan.zhihu.com/p/408190719)  
+    [【Learning to Prompt for Vision-Language Models】](https://arxiv.org/abs/2109.01134)
+
     
-
-- [Self-Attention真的是必要的吗？微软&中科大提出Sparse MLP，降低计算量的同时提升性能！](https://zhuanlan.zhihu.com/p/418093199)  
-    [【Sparse MLP for Image Recognition: Is Self-Attention Really Necessary?】](https://arxiv.org/abs/2109.05422)
-
-
-
-- [你见过长得像CNN的MLP吗？UO&UIUC提出了用于视觉任务的层次卷积MLP](https://zhuanlan.zhihu.com/p/418094475)  
-    [【ConvMLP: Hierarchical Convolutional MLPs for Vision】](https://arxiv.org/abs/2109.04454)
-
-
-
-- [目标检测再次革新！图灵奖得主Hinton团队提出Pix2Seq，将Detection变成了Image Captioning](https://zhuanlan.zhihu.com/p/418095279)  
-    [【Pix2seq: A Language Modeling Framework for Object Detection】](https://arxiv.org/abs/2109.10852)
-
-
 
 - [消除预训练模型的语言限制！Google提出跨语言的多模态、多任务检索模型MURAL](https://zhuanlan.zhihu.com/p/418098303)  
     [【MURAL: Multimodal, Multitask Retrieval Across Languages】](https://arxiv.org/abs/2109.05125v1)
 
     
-
-- [压缩之后神经网络忘记了什么？Google研究员给出了答案](https://zhuanlan.zhihu.com/p/418099910)  
-    [【What Do Compressed Deep Neural Networks Forget?】](https://arxiv.org/abs/1911.05248)
