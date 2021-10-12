@@ -140,6 +140,12 @@ Hello，大家好，我是小马🚀🚀🚀
 - [ICCV2021-去除冗余token的DETR效果怎么样？NUS颜水成大佬团队给出了答案！](https://zhuanlan.zhihu.com/p/415579801)  
     [【PnP-DETR: Towards Efficient Visual Analysis with Transformers】](https://arxiv.org/abs/2109.07036)
 
+
+
+- [ICCV2021-还在用大量数据暴力train模型？主动学习，教你选出数据集中最有价值的样本](https://zhuanlan.zhihu.com/p/420756941)  
+    [【Active Learning for Deep Object Detection via Probabilistic Modeling】](https://arxiv.org/abs/2103.16130)
+
+
 ***
 
 ## ACM MM2021
