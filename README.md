@@ -146,6 +146,12 @@ Hello，大家好，我是小马🚀🚀🚀
     [【Active Learning for Deep Object Detection via Probabilistic Modeling】](https://arxiv.org/abs/2103.16130)
 
 
+
+
+- [ICCV2021-比MoCo更通用的对比学习范式，中科大&MSRA提出对比学习新方法MaskCo](https://zhuanlan.zhihu.com/p/4209392131)  
+    [【Self-Supervised Visual Representations Learning by Contrastive Mask Prediction】](https://arxiv.org/abs/2108.07954)
+
+
 ***
 
 ## ACM MM2021
