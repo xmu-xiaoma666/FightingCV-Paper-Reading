@@ -194,6 +194,11 @@ Hello，大家好，我是小马🚀🚀🚀
 - [CVPR2021-人大提出新模型，将Two Stage的Video Paragraph Captioning变成One Stage，性能却没下降](https://zhuanlan.zhihu.com/p/404419987)   
     [【Towards Diverse Paragraph Captioning for Untrimmed Videos】](https://arxiv.org/abs/2105.14477)
 
+
+- [CVPR2021-用更好的目标检测器提取视觉特征！微软提出VinVL，基于更好的视觉特征，达到更强的多模态性能。](https://zhuanlan.zhihu.com/p/422114283)   
+    [【VinVL: Revisiting Visual Representations in Vision-Language Models】](https://arxiv.org/abs/2101.00529)
+
+
 ### 主干网络（Backbone，CNN，Transformer）
 - [谷歌新作HaloNet：Transformer一作用Self-Attention的方式进行卷积](https://zhuanlan.zhihu.com/p/388598744)  
     [【Scaling Local Self-Attention for Parameter Efficient Visual Backbones】](https://zhuanlan.zhihu.com/p/388598744)
