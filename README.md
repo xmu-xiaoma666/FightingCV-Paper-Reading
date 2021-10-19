@@ -32,15 +32,21 @@ Hello，大家好，我是小马🚀🚀🚀
 
 ***
 
-## EMNLP2021
-### 多模态（Multi-Modal）
-- [多模态Transformer真的多模态了吗？论多模态Transformer对跨模态的影响](https://zhuanlan.zhihu.com/p/411890653)  
-    [【Vision-and-Language or Vision-for-Language? On Cross-Modal Inflfluence in Multimodal Transformers】](https://arxiv.org/abs/2109.04448)
 
-- [EMNLP2021-“Transformer+预训练”再下一城，港科大开源高效的多模态摘要总结网络](https://zhuanlan.zhihu.com/p/418923591)  
-    [【Vision Guided Generative Pre-trained Language Models for Multimodal Abstractive Summarization】](https://arxiv.org/abs/2109.02401)
+## NeurIPS2021
+### Transformer
+- [Multi-Scale Densenet续作？动态ViT](https://zhuanlan.zhihu.com/p/386929227)  
+    [【Not All Images are Worth 16x16 Words: Dynamic Vision Transformers with Adaptive Sequence Length】](https://arxiv.org/abs/2105.15075)
+
+- [微软新作Focal Self-Attention：具备Local和Global交互能力的Transformer](https://zhuanlan.zhihu.com/p/387693270)  
+    [【Focal Self-attention for Local-Global Interactions in Vision Transformers】](https://arxiv.org/abs/2107.00641)
+
 
 ***
+
+
+
+
 
 ## ICCV2021
 ### 多模态（Multi-Modal）
@@ -230,14 +236,22 @@ Hello，大家好，我是小马🚀🚀🚀
 
 ***
 
-## NeurIPS2021
-### Transformer
-- [Multi-Scale Densenet续作？动态ViT](https://zhuanlan.zhihu.com/p/386929227)  
-    [【Not All Images are Worth 16x16 Words: Dynamic Vision Transformers with Adaptive Sequence Length】](https://arxiv.org/abs/2105.15075)
 
-- [微软新作Focal Self-Attention：具备Local和Global交互能力的Transformer](https://zhuanlan.zhihu.com/p/387693270)  
-    [【Focal Self-attention for Local-Global Interactions in Vision Transformers】](https://arxiv.org/abs/2107.00641)
 
+## EMNLP2021
+### 多模态（Multi-Modal）
+- [多模态Transformer真的多模态了吗？论多模态Transformer对跨模态的影响](https://zhuanlan.zhihu.com/p/411890653)  
+    [【Vision-and-Language or Vision-for-Language? On Cross-Modal Inflfluence in Multimodal Transformers】](https://arxiv.org/abs/2109.04448)
+
+- [EMNLP2021-“Transformer+预训练”再下一城，港科大开源高效的多模态摘要总结网络](https://zhuanlan.zhihu.com/p/418923591)  
+    [【Vision Guided Generative Pre-trained Language Models for Multimodal Abstractive Summarization】](https://arxiv.org/abs/2109.02401)
+
+***
+
+## TPAMI
+### 压缩加速
+- [TPAMI2021-华为诺亚&悉尼大学陶大程团队提出多功能卷积，助力轻量级网络](https://zhuanlan.zhihu.com/p/423130563)  
+    [【Learning Versatile Convolution Filters for Efficient Visual Recognition】](https://arxiv.org/abs/2109.09310v1)
 
 ***
 
