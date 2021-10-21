@@ -35,6 +35,11 @@ Hello，大家好，我是小马🚀🚀🚀
 
 ## NeurIPS2021
 ### Transformer
+
+
+- [NeurIPS2021- Transformer部署难？北大&华为诺亚提出Vision Transformer的后训练量化方法](https://zhuanlan.zhihu.com/p/423936004)  
+    [【Post-Training Quantization for Vision Transformer】](https://arxiv.org/abs/2106.14156)
+
 - [Multi-Scale Densenet续作？动态ViT](https://zhuanlan.zhihu.com/p/386929227)  
     [【Not All Images are Worth 16x16 Words: Dynamic Vision Transformers with Adaptive Sequence Length】](https://arxiv.org/abs/2105.15075)
 
