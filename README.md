@@ -36,6 +36,8 @@ Hello，大家好，我是小马🚀🚀🚀
 ## NeurIPS2021
 ### Transformer
 
+- [NeurIPS2021-没有残差连接的ViT准确率只有0.15%！！！北大&华为提出用于Vision Transformer的Augmented Shortcuts，涨点显著！](https://zhuanlan.zhihu.com/p/424214038)  
+    [【Augmented Shortcuts for Vision Transformers】](https://arxiv.org/abs/2106.15941)
 
 - [NeurIPS2021- Transformer部署难？北大&华为诺亚提出Vision Transformer的后训练量化方法](https://zhuanlan.zhihu.com/p/423936004)  
     [【Post-Training Quantization for Vision Transformer】](https://arxiv.org/abs/2106.14156)
