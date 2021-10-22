@@ -321,6 +321,10 @@ Hello，大家好，我是小马🚀🚀🚀
 
 
 
+- [它来了！轻量、通用、适用于移动设备的Transformer！苹果公司提出了MobileViT](https://zhuanlan.zhihu.com/p/424669337)  
+    [【MobileViT: Light-weight, General-purpose, and Mobile-friendly Vision Transformer】](https://arxiv.org/abs/2110.02178)
+
+
 ### 分割（Segmentation）
 - [MaskFormer：语义分割、实例分割“大一统”：Facebook&UIUC提出MaskFormer](https://zhuanlan.zhihu.com/p/392731360)  
     [【Per-Pixel Classification is Not All You Need for Semantic Segmentation】](https://arxiv.org/abs/2107.06278)
