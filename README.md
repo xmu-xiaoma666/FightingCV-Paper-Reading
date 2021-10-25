@@ -356,6 +356,9 @@ Hello，大家好，我是小马🚀🚀🚀
 - [国科大提出用于VideoQA的跨模态交互时间金字塔Transformer](https://zhuanlan.zhihu.com/p/419923517)  
     [【Temporal Pyramid Transformer with Multimodal Interaction for Video Question Answering】](https://arxiv.org/abs/2109.04735)
 
+- [10亿参数！别只玩GPT，来看看这个已经落地的国产模型BriVL！人大&中科院联手打造第一个大规模多模态中文预训练模型](https://zhuanlan.zhihu.com/p/425672126)  
+    [【WenLan: Bridging Vision and Language by Large-Scale Multi-Modal Pre-Training】](https://arxiv.org/abs/2103.06561)
+
 
 ### 视频（Video）
 - [Video Swin Transformer-既Swin Transformer之后，MSRA开源Video Swin Transformer，在视频数据集上SOTA](https://zhuanlan.zhihu.com/p/401600421)  
