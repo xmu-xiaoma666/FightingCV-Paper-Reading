@@ -38,6 +38,10 @@ Hello，大家好，我是小马🚀🚀🚀
 ## NeurIPS2021
 ### Transformer
 
+
+- [NeurIPS2021-ViT现在可以做目标检测任务啦！华科提出目标检测新方法YOLOS](https://zhuanlan.zhihu.com/p/4262947628)  
+    [【You Only Look at One Sequence: Rethinking Transformer in Vision through Object Detection】](https://www.arxiv-vanity.com/papers/2106.00666/)
+
 - [NeurIPS2021-没有残差连接的ViT准确率只有0.15%！！！北大&华为提出用于Vision Transformer的Augmented Shortcuts，涨点显著！](https://zhuanlan.zhihu.com/p/424214038)  
     [【Augmented Shortcuts for Vision Transformers】](https://arxiv.org/abs/2106.15941)
 
