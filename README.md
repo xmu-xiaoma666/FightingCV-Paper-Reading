@@ -215,7 +215,12 @@ Hello，大家好，我是小马🚀🚀🚀
 
 
 - [CVPR2021-用更好的目标检测器提取视觉特征！微软提出VinVL，基于更好的视觉特征，达到更强的多模态性能。](https://zhuanlan.zhihu.com/p/422114283)   
-    [【VinVL: Revisiting Visual Representations in Vision-Language Models】](https://arxiv.org/abs/2101.00529)
+    [【VinVL: Revisiting Visual Representations in Vision-Language Models】](https://arxiv.org/abs/2104.13682)
+
+
+
+- [CVPR2021 Oral-不再需要后处理步骤！Kakao提出端到端的Human-Object交互检测模型](https://zhuanlan.zhihu.com/p/426929486)   
+    [【HOTR: End-to-End Human-Object Interaction Detection with Transformers】](https://arxiv.org/abs/2101.00529)
 
 
 ### 主干网络（Backbone，CNN，Transformer）
