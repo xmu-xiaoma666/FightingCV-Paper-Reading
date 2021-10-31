@@ -346,6 +346,9 @@ Hello，大家好，我是小马🚀🚀🚀
     [【Panoptic SegFormer】](https://arxiv.org/abs/2109.03814)
 
 
+- [中科院&西交&旷视（孙剑团队）提出用于语义分割的动态路由网络，精确感知多尺度目标，代码已开源！](https://zhuanlan.zhihu.com/p/427709226)  
+    [【Learning Dynamic Routing for Semantic Segmentation】](https://arxiv.org/abs/2003.10401)
+
 
 ### 检测（Detection）
 - [《Anchor DETR》-加了Anchor Point能够让DETR又快又好？旷视孙剑团队提出Anchor DETR](https://zhuanlan.zhihu.com/p/411889426)  
