@@ -57,8 +57,13 @@ Hello，大家好，我是小马🚀🚀🚀
 
 ***
 
+### 多模态
+
+- [NeurIPS2021-《MBT》-多模态数据怎么融合？谷歌提出基于注意力瓶颈的方法，简单高效还省计算量](https://zhuanlan.zhihu.com/p/427779731)  
+    [【Attention Bottlenecks for Multimodal Fusion】](https://arxiv.org/abs/2107.00135)
 
 
+***
 
 
 ## ICCV2021
