@@ -79,6 +79,15 @@ Hello，大家好，我是小马🚀🚀🚀
 ***
 
 
+### 动态网络
+
+- [NeurIPS2021-用多大分辨率的图像做分类更适合？浙大&华为&国科大提出Dynamic Resolution Network，降低计算量还能提性能！](https://zhuanlan.zhihu.com/p/428436758)  
+    [【Dynamic Resolution Network】](https://arxiv.org/abs/2106.02898)
+
+
+***
+
+
 ## ICCV2021
 ### 多模态（Multi-Modal）
 - [ICCV2021 Oral-MDETR：图灵奖得主Yann LeCun的团队&Facebook提出端到端多模态理解的目标检测器](https://zhuanlan.zhihu.com/p/394239659)  
@@ -412,6 +421,12 @@ Hello，大家好，我是小马🚀🚀🚀
 - [压缩之后神经网络忘记了什么？Google研究员给出了答案](https://zhuanlan.zhihu.com/p/418099910)  
     [【What Do Compressed Deep Neural Networks Forget?】](https://arxiv.org/abs/1911.05248)
 
+
+
+### 动态网络
+
+- [浙大&华为诺亚&西湖大学提出用于目标检测的动态特征金字塔DyFPN，减少40%的FLOPs！](https://zhuanlan.zhihu.com/p/428439288)  
+    [【Dynamic Feature Pyramid Networks for Object Detection】](https://arxiv.org/abs/2012.00779)
 
 ### 其他
 
