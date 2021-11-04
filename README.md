@@ -440,3 +440,7 @@ Hello，大家好，我是小马🚀🚀🚀
     [【MURAL: Multimodal, Multitask Retrieval Across Languages】](https://arxiv.org/abs/2109.05125v1)
 
     
+
+- [CLIP对视觉和语言任务有多大的好处？UC Berkeley&UCLA团队给出了答案！](https://zhuanlan.zhihu.com/p/429243265)  
+    [【How Much Can CLIP Benefit Vision-and-Language Tasks?】](https://arxiv.org/abs/2107.06383)
+
