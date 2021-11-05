@@ -52,6 +52,9 @@ Hello，大家好，我是小马🚀🚀🚀
 ### Transformer
 
 
+- [NeurIPS2021-《HRFormer》-HRNet又出续作啦！国科大&北大&MSRA提出高分辨率Transformer，代码已开源！](https://zhuanlan.zhihu.com/p/429936715)  
+    [【HRFormer: High-Resolution Transformer for Dense Prediction】](https://arxiv.org/abs/2110.09408)
+
 - [NeurIPS2021-ViT现在可以做目标检测任务啦！华科提出目标检测新方法YOLOS](https://zhuanlan.zhihu.com/p/4262947628)  
     [【You Only Look at One Sequence: Rethinking Transformer in Vision through Object Detection】](https://www.arxiv-vanity.com/papers/2106.00666/)
 
