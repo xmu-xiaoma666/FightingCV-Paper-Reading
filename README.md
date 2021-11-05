@@ -399,6 +399,10 @@ Hello，大家好，我是小马🚀🚀🚀
     [【WenLan: Bridging Vision and Language by Large-Scale Multi-Modal Pre-Training】](https://arxiv.org/abs/2103.06561)
 
 
+- [CLIP对视觉和语言任务有多大的好处？UC Berkeley&UCLA团队给出了答案！](https://zhuanlan.zhihu.com/p/429243265)  
+    [【How Much Can CLIP Benefit Vision-and-Language Tasks?】](https://arxiv.org/abs/2107.06383)
+
+
 ### 视频（Video）
 - [Video Swin Transformer-既Swin Transformer之后，MSRA开源Video Swin Transformer，在视频数据集上SOTA](https://zhuanlan.zhihu.com/p/401600421)  
     [【Video Swin Transformer】](https://arxiv.org/abs/2106.13230)
@@ -439,8 +443,9 @@ Hello，大家好，我是小马🚀🚀🚀
 - [消除预训练模型的语言限制！Google提出跨语言的多模态、多任务检索模型MURAL](https://zhuanlan.zhihu.com/p/418098303)  
     [【MURAL: Multimodal, Multitask Retrieval Across Languages】](https://arxiv.org/abs/2109.05125v1)
 
-    
 
-- [CLIP对视觉和语言任务有多大的好处？UC Berkeley&UCLA团队给出了答案！](https://zhuanlan.zhihu.com/p/429243265)  
-    [【How Much Can CLIP Benefit Vision-and-Language Tasks?】](https://arxiv.org/abs/2107.06383)
+
+- [深度神经网络其实并不需要那么深！普林斯顿大学&Intel提出ParNet，12层的网络就能达到80%以上的准确率！](https://zhuanlan.zhihu.com/p/429732072)  
+    [【Non-deep Networks】](https://arxiv.org/abs/2110.07641)
+
 
