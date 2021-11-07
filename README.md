@@ -438,6 +438,12 @@ Hello，大家好，我是小马🚀🚀🚀
 - [《Dynamic Routing》-中科院&西交&旷视（孙剑团队）提出用于语义分割的动态路由网络，精确感知多尺度目标，代码已开源！](https://zhuanlan.zhihu.com/p/430452628)  
     [【Learning Dynamic Routing for Semantic Segmentation】](https://arxiv.org/abs/2003.10401)
 
+- [普林斯顿大学&英伟达&Facebook提出基于深度神经网络的全动态推理，助力轻量级网络！](https://zhuanlan.zhihu.com/p/430518300)  
+    [【Fully Dynamic Inference with Deep Neural Networks】](https://arxiv.org/abs/2007.15151)
+
+
+
+
 ### 其他
 
 
