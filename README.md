@@ -435,6 +435,9 @@ Hello，大家好，我是小马🚀🚀🚀
 - [浙大&华为诺亚&西湖大学提出用于目标检测的动态特征金字塔DyFPN，减少40%的FLOPs！](https://zhuanlan.zhihu.com/p/428439288)  
     [【Dynamic Feature Pyramid Networks for Object Detection】](https://arxiv.org/abs/2012.00779)
 
+- [《Dynamic Routing》-中科院&西交&旷视（孙剑团队）提出用于语义分割的动态路由网络，精确感知多尺度目标，代码已开源！](https://zhuanlan.zhihu.com/p/430452628)  
+    [【Learning Dynamic Routing for Semantic Segmentation】](https://arxiv.org/abs/2003.10401)
+
 ### 其他
 
 
