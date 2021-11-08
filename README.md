@@ -406,6 +406,9 @@ Hello，大家好，我是小马🚀🚀🚀
     [【How Much Can CLIP Benefit Vision-and-Language Tasks?】](https://arxiv.org/abs/2107.06383)
 
 
+- [消除预训练模型的语言限制！Google提出跨语言的多模态、多任务检索模型MURAL](https://zhuanlan.zhihu.com/p/418098303)  
+    [【MURAL: Multimodal, Multitask Retrieval Across Languages】](https://arxiv.org/abs/2109.05125v1)
+
 ### 视频（Video）
 - [Video Swin Transformer-既Swin Transformer之后，MSRA开源Video Swin Transformer，在视频数据集上SOTA](https://zhuanlan.zhihu.com/p/401600421)  
     [【Video Swin Transformer】](https://arxiv.org/abs/2106.13230)
@@ -450,14 +453,13 @@ Hello，大家好，我是小马🚀🚀🚀
 - [拒绝Prompt Engineering，NTU提出CoOp，自适应学习不同下游任务的Prompt，性能碾压手工设计的Prompt](https://zhuanlan.zhihu.com/p/408190719)  
     [【Learning to Prompt for Vision-Language Models】](https://arxiv.org/abs/2109.01134)
 
-    
-
-- [消除预训练模型的语言限制！Google提出跨语言的多模态、多任务检索模型MURAL](https://zhuanlan.zhihu.com/p/418098303)  
-    [【MURAL: Multimodal, Multitask Retrieval Across Languages】](https://arxiv.org/abs/2109.05125v1)
-
 
 
 - [深度神经网络其实并不需要那么深！普林斯顿大学&Intel提出ParNet，12层的网络就能达到80%以上的准确率！](https://zhuanlan.zhihu.com/p/429732072)  
     [【Non-deep Networks】](https://arxiv.org/abs/2110.07641)
 
 
+
+
+- [NeurIPS2021-港大&腾讯AI Lab&牛津大学提出CARE，让CNN和Transformer能在对比学习中“互帮互助”！](https://zhuanlan.zhihu.com/p/430773996)  
+    [【Revitalizing CNN Attentions via Transformers in Self-Supervised Visual Representation Learning】](https://arxiv.org/abs/2110.05340)
