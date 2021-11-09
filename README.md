@@ -364,6 +364,12 @@ Hello，大家好，我是小马🚀🚀🚀
     [【MobileViT: Light-weight, General-purpose, and Mobile-friendly Vision Transformer】](https://arxiv.org/abs/2110.02178)
 
 
+
+- [《UFO-ViT》-Transformer可以不需要Softmax？Kakao提出了UFO-ViT，性能高，计算量还小](https://zhuanlan.zhihu.com/p/431194075)  
+    [【UFO-ViT: High Performance Linear Vision Transformer without Softmax】](https://arxiv.org/abs/2109.14382)
+
+
+
 ### 分割（Segmentation）
 - [MaskFormer：语义分割、实例分割“大一统”：Facebook&UIUC提出MaskFormer](https://zhuanlan.zhihu.com/p/392731360)  
     [【Per-Pixel Classification is Not All You Need for Semantic Segmentation】](https://arxiv.org/abs/2107.06278)
