@@ -469,3 +469,8 @@ Hello，大家好，我是小马🚀🚀🚀
 
 - [NeurIPS2021-港大&腾讯AI Lab&牛津大学提出CARE，让CNN和Transformer能在对比学习中“互帮互助”！](https://zhuanlan.zhihu.com/p/430773996)  
     [【Revitalizing CNN Attentions via Transformers in Self-Supervised Visual Representation Learning】](https://arxiv.org/abs/2110.05340)
+
+
+
+- [FAIR三神Kaiming，Piotr，Ross新作，MAE才是YYDS！仅用ImageNet1K，Top-1准确率87.8%，封神！](https://zhuanlan.zhihu.com/p/432663453)  
+    [【Masked Autoencoders Are Scalable Vision Learners】](https://arxiv.org/abs/2111.06377)
