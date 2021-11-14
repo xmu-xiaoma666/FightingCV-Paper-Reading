@@ -457,6 +457,9 @@ Hello，大家好，我是小马🚀🚀🚀
 - [CLIP再创辉煌！西南交大&MSRA提出CLIP4Clip，进行端到端的视频文本检索！](https://zhuanlan.zhihu.com/p/433063611)  
     [【CLIP4Clip: An Empirical Study of CLIP for End to End Video Clip Retrieval】](https://arxiv.org/abs/2104.08860)
 
+- [腾讯PCG提出CLIP2Video，基于CLIP解决视频文本检索问题，性能SOTA！代码已开源！](https://zhuanlan.zhihu.com/p/433083355)  
+    [【CLIP2Video: Mastering Video-Text Retrieval via Image CLIP】](https://arxiv.org/abs/2106.11097)
+
 
 ### 其他
 
