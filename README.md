@@ -451,6 +451,11 @@ Hello，大家好，我是小马🚀🚀🚀
     [【Fully Dynamic Inference with Deep Neural Networks】](https://arxiv.org/abs/2007.15151)
 
 
+### 多模态检索
+
+
+- [CLIP再创辉煌！西南交大&MSRA提出CLIP4Clip，进行端到端的视频文本检索！](https://zhuanlan.zhihu.com/p/433063611)  
+    [【CLIP4Clip: An Empirical Study of CLIP for End to End Video Clip Retrieval】](https://arxiv.org/abs/2104.08860)
 
 
 ### 其他
@@ -474,3 +479,7 @@ Hello，大家好，我是小马🚀🚀🚀
 
 - [FAIR三神Kaiming，Piotr，Ross新作，MAE才是YYDS！仅用ImageNet1K，Top-1准确率87.8%，封神！](https://zhuanlan.zhihu.com/p/432663453)  
     [【Masked Autoencoders Are Scalable Vision Learners】](https://arxiv.org/abs/2111.06377)
+
+
+- []()  
+    [【】]()
