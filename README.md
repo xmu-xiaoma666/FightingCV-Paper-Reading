@@ -79,6 +79,9 @@ Hello，大家好，我是小马🚀🚀🚀
     [【Attention Bottlenecks for Multimodal Fusion】](https://arxiv.org/abs/2107.00135)
 
 
+- [NeurIPS2021-快来刷榜吧！微软提出新的视频多模态benchmark，同时包含检索、caption、QA等多个任务！](https://zhuanlan.zhihu.com/p/433827807)  
+    [【VALUE: A Multi-Task Benchmark for Video-and-Language Understanding Evaluation】](https://arxiv.org/abs/2106.04632)
+
 ***
 
 
