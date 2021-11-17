@@ -464,6 +464,10 @@ Hello，大家好，我是小马🚀🚀🚀
     [【CLIP2Video: Mastering Video-Text Retrieval via Image CLIP】](https://arxiv.org/abs/2106.11097)
 
 
+- [视频预训练界的HERO！微软提出视频-语言全表示预训练模型HERO，代码已开源！](https://zhuanlan.zhihu.com/p/434323805)  
+    [【HERO: Hierarchical Encoder for Video+Language Omni-representation Pre-training】](https://arxiv.org/abs/2005.00200)
+
+
 ### 其他
 
 
