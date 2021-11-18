@@ -474,6 +474,10 @@ Hello，大家好，我是小马🚀🚀🚀
     [【HERO: Hierarchical Encoder for Video+Language Omni-representation Pre-training】](https://arxiv.org/abs/2005.00200)
 
 
+- [同时利用字幕、音频、视频进行检索！Inria&谷歌提出MMT用于高效跨模态视频检索，代码已开源！](https://zhuanlan.zhihu.com/p/434991340)  
+    [【Multi-modal Transformer for Video Retrieval】](https://arxiv.org/abs/2007.10639)
+
+
 ### 其他
 
 
