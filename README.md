@@ -373,6 +373,12 @@ Hello，大家好，我是小马🚀🚀🚀
 
 
 
+
+- [McGill&微软将卷积操作加入到Vision Transformer中，捕获更详细的局部信息！预训练下ImageNet Top-1准确率达到87.7%！代码已开源！](https://zhuanlan.zhihu.com/p/434717405)  
+    [【CvT: Introducing Convolutions to Vision Transformers】](https://arxiv.org/abs/2103.15808)
+
+
+
 ### 分割（Segmentation）
 - [MaskFormer：语义分割、实例分割“大一统”：Facebook&UIUC提出MaskFormer](https://zhuanlan.zhihu.com/p/392731360)  
     [【Per-Pixel Classification is Not All You Need for Semantic Segmentation】](https://arxiv.org/abs/2107.06278)
