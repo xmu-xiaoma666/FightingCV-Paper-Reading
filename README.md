@@ -256,6 +256,10 @@ Hello，大家好，我是小马🚀🚀🚀
     [【HOTR: End-to-End Human-Object Interaction Detection with Transformers】](https://arxiv.org/abs/2101.00529)
 
 
+- [同时利用字幕、音频、视频进行检索！Inria&谷歌提出MMT用于高效跨模态视频检索，代码已开源！](https://zhuanlan.zhihu.com/p/435621836)  
+    [【Multi-modal Transformer for Video Retrieval】](https://arxiv.org/abs/2007.10639)
+
+
 ### 主干网络（Backbone，CNN，Transformer）
 - [谷歌新作HaloNet：Transformer一作用Self-Attention的方式进行卷积](https://zhuanlan.zhihu.com/p/388598744)  
     [【Scaling Local Self-Attention for Parameter Efficient Visual Backbones】](https://zhuanlan.zhihu.com/p/388598744)
