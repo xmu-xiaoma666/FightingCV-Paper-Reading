@@ -256,8 +256,8 @@ Hello，大家好，我是小马🚀🚀🚀
     [【HOTR: End-to-End Human-Object Interaction Detection with Transformers】](https://arxiv.org/abs/2101.00529)
 
 
-- [同时利用字幕、音频、视频进行检索！Inria&谷歌提出MMT用于高效跨模态视频检索，代码已开源！](https://zhuanlan.zhihu.com/p/435621836)  
-    [【Multi-modal Transformer for Video Retrieval】](https://arxiv.org/abs/2007.10639)
+- [CVPR2021-《T2VLAD》-浙大&百度&悉尼科技提出用局部全局对齐来进行视频文本检索！效果优于MMT！](https://zhuanlan.zhihu.com/p/435630887)  
+    [【T2VLAD: Global-Local Sequence Alignment for Text-Video Retrieval】](https://arxiv.org/abs/2104.10054)
 
 
 ### 主干网络（Backbone，CNN，Transformer）
