@@ -428,6 +428,10 @@ Hello，大家好，我是小马🚀🚀🚀
 - [消除预训练模型的语言限制！Google提出跨语言的多模态、多任务检索模型MURAL](https://zhuanlan.zhihu.com/p/418098303)  
     [【MURAL: Multimodal, Multitask Retrieval Across Languages】](https://arxiv.org/abs/2109.05125v1)
 
+
+- [微软提出VLMO，用“模态混合专家”进行统一的视觉语言预训练！即将开源！](https://zhuanlan.zhihu.com/p/436074295)  
+    [【VLMO: Unifified Vision-Language Pre-Training with Mixture-of-Modality-Experts】](https://arxiv.org/abs/2111.02358)
+
 ### 视频（Video）
 - [Video Swin Transformer-既Swin Transformer之后，MSRA开源Video Swin Transformer，在视频数据集上SOTA](https://zhuanlan.zhihu.com/p/401600421)  
     [【Video Swin Transformer】](https://arxiv.org/abs/2106.13230)
@@ -482,6 +486,8 @@ Hello，大家好，我是小马🚀🚀🚀
     [【Multi-modal Transformer for Video Retrieval】](https://arxiv.org/abs/2007.10639)
 
 
+
+
 ### 其他
 
 
@@ -504,6 +510,8 @@ Hello，大家好，我是小马🚀🚀🚀
 - [FAIR三神Kaiming，Piotr，Ross新作，MAE才是YYDS！仅用ImageNet1K，Top-1准确率87.8%，封神！](https://zhuanlan.zhihu.com/p/432663453)  
     [【Masked Autoencoders Are Scalable Vision Learners】](https://arxiv.org/abs/2111.06377)
 
+- [Swin Transformer V2！MSRA原班人马探究了Swin在超大参数下的拓展！提出了30亿参数版本的Swin Transformer！](https://zhuanlan.zhihu.com/p/436072504)  
+    [【Swin Transformer V2: Scaling Up Capacity and Resolution】](https://arxiv.org/abs/2111.09883)
 
 - []()  
     [【】]()
