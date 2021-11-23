@@ -217,6 +217,10 @@ Hello，大家好，我是小马🚀🚀🚀
 - [ACMMM 2021-性能SOTA！用GNN和GAN的方式来强化Video Captioning的学习！](https://zhuanlan.zhihu.com/p/403895573)  
     [【Discriminative Latent Semantic Graph for Video Captioning】](https://arxiv.org/abs/2108.03662)
 
+### 多模态
+- [ACM MM2021-从局部到整体的检索！阿里提出用于视频文本检索的分层对齐网络HANet！代码已开源！](https://zhuanlan.zhihu.com/p/436531598)  
+    [【HANet: Hierarchical Alignment Networks for Video-Text Retrieval】](https://arxiv.org/abs/2107.12059)
+
 ***
 
 ## ICML2021
