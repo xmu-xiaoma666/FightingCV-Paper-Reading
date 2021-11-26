@@ -82,6 +82,10 @@ Hello，大家好，我是小马🚀🚀🚀
 - [NeurIPS2021-快来刷榜吧！微软提出新的视频多模态benchmark，同时包含检索、caption、QA等多个任务！](https://zhuanlan.zhihu.com/p/433827807)  
     [【VALUE: A Multi-Task Benchmark for Video-and-Language Understanding Evaluation】](https://arxiv.org/abs/2106.04632)
 
+
+- [NeurIPS 2021-《ALBEF》-先对齐再融合，Salesforce Research提出ALBEF，用动量蒸馏进行多模态表示学习！多个下游任务性能SOTA！](https://zhuanlan.zhihu.com/p/438014941)  
+    [【Align before Fuse: Vision and Language Representation Learning with Momentum Distillation】](https://arxiv.org/abs/2107.07651)
+
 ***
 
 
@@ -119,6 +123,10 @@ Hello，大家好，我是小马🚀🚀🚀
 
 - [ICCV2021-用DETR的方法做Dense Video Captioning！港大&南科大提出端到端PDVC，简化训练流程。](https://zhuanlan.zhihu.com/p/418100751) 
     [【End-to-End Dense Video Captioning with Parallel Decoding】](https://arxiv.org/abs/2108.07781)
+
+
+- [ICCV2021-北大&FAIR&自动化所&快手提出基于动量对比学习的层次Transformer——HiT，用于视频文本检索！代码已开源！](https://zhuanlan.zhihu.com/p/438013433)  
+    [【HiT: Hierarchical Transformer with Momentum Contrast for Video-Text Retrieval】](https://arxiv.org/abs/2103.15049)
 
 
 ### 对比学习（Contrastive Learning）
@@ -489,6 +497,9 @@ Hello，大家好，我是小马🚀🚀🚀
 - [同时利用字幕、音频、视频进行检索！Inria&谷歌提出MMT用于高效跨模态视频检索，代码已开源！](https://zhuanlan.zhihu.com/p/434991340)  
     [【Multi-modal Transformer for Video Retrieval】](https://arxiv.org/abs/2007.10639)
 
+
+- [《CLIP2TV》-用CLIP和动量蒸馏来做视频文本检索！腾讯提出CLIP2TV，性能SOTA，涨点4.1%！](https://zhuanlan.zhihu.com/p/438016863)  
+    [【CLIP2TV: An Empirical Study on Transformer-based Methods for Video-Text Retrieval】](https://arxiv.org/abs/2111.05610)
 
 
 
