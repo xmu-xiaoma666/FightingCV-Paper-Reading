@@ -528,5 +528,10 @@ Hello，大家好，我是小马🚀🚀🚀
 - [Swin Transformer V2！MSRA原班人马探究了Swin在超大参数下的拓展！提出了30亿参数版本的Swin Transformer！](https://zhuanlan.zhihu.com/p/436072504)  
     [【Swin Transformer V2: Scaling Up Capacity and Resolution】](https://arxiv.org/abs/2111.09883)
 
+
+- [《BEIT》-基于图像重建进行预训练！微软提出BEIT，Top-1准确率达86.3%！代码已开源！](https://zhuanlan.zhihu.com/p/438726362)  
+    [【BEIT: BERT Pre-Training of Image Transformers】](https://arxiv.org/abs/2106.08254)
+
+
 - []()  
     [【】]()
