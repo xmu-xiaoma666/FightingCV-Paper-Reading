@@ -451,6 +451,8 @@ Hello，大家好，我是小马🚀🚀🚀
 - [基于时空混合attention的视频Transformer，大幅度降低计算复杂度](https://zhuanlan.zhihu.com/p/420280467)  
     [【Space-time Mixing Attention for Video Transformer】](https://arxiv.org/abs/2106.05968)
 
+- [视频动作识别不是分类问题，而是检索问题？基于CLIP，浙大提出ActionCLIP，用检索的思想做视频动作识别！性能SOTA！代码已开源！](https://zhuanlan.zhihu.com/p/439011248)  
+    [【ActionCLIP: A New Paradigm for Video Action Recognition】](https://arxiv.org/abs/2109.08472)
 
 
 ### 压缩加速
