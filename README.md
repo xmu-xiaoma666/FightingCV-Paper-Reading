@@ -39,6 +39,7 @@ Hello，大家好，我是小马🚀🚀🚀
 
 - [从多篇2021年顶会论文看多模态预训练模型最新研究进展](https://zhuanlan.zhihu.com/p/425859974)  
 
+- [从2019年-2021年的各大顶会论文，看动态神经网络的发展](https://mp.weixin.qq.com/s?__biz=MzIzNzU4OTAxMQ==&mid=2247484386&idx=1&sn=d3275fe4f51d7d559c855adcbc2b42df&chksm=e8c7049edfb08d88ec7805eebbb5236d165ba797982bbe56fe0fddca660e39b8f7faf06372ff&token=876992619&lang=zh_CN#rd)  
 
 - [深度学习中的重参数机制总结与代码实现](https://zhuanlan.zhihu.com/p/383660483)  
 
@@ -109,7 +110,7 @@ Hello，大家好，我是小马🚀🚀🚀
 - [ICCV2021-如何高效视频定位？北大&Adobe&QMUL强强联手提出弱监督CRM，性能SOTA](https://zhuanlan.zhihu.com/p/406704588)  
     [【Cross-Sentence Temporal and Semantic Relations in Video Activity Localisation】](https://arxiv.org/abs/2107.11443)
     
-- [ICCV2021-TOCo-微软&CMU提出Token感知的级联对比学习方法，在视频文本对齐任务上“吊打”其他SOTA方法](https://zhuanlan.zhihu.com/p/406827017)  
+- [ICCV2021-TACo-微软&CMU提出Token感知的级联对比学习方法，在视频文本对齐任务上“吊打”其他SOTA方法](https://zhuanlan.zhihu.com/p/406827017)  
     [【TACo: Token-aware Cascade Contrastive Learning for Video-Text Alignment】](https://arxiv.org/abs/2108.09980)
 
 - [ICCV2021 Oral-新任务！新数据集！康奈尔大学提出了类似VG但又不是VG的PVG任务](https://zhuanlan.zhihu.com/p/407102211)  
@@ -128,6 +129,10 @@ Hello，大家好，我是小马🚀🚀🚀
 - [ICCV2021-北大&FAIR&自动化所&快手提出基于动量对比学习的层次Transformer——HiT，用于视频文本检索！代码已开源！](https://zhuanlan.zhihu.com/p/438013433)  
     [【HiT: Hierarchical Transformer with Momentum Contrast for Video-Text Retrieval】](https://arxiv.org/abs/2103.15049)
 
+
+
+- [ICCV2021 视频领域的纯Transformer方案！谷歌提出ViViT，在多个视频分类基准上SOTA！代码已开源！](https://mp.weixin.qq.com/s?__biz=MzIzNzU4OTAxMQ==&mid=2247484373&idx=1&sn=ab686693985a4aaba9a88a62a79f888b&chksm=e8c704a9dfb08dbf218880b39a1ff40cbd34b6e26b7273a4b420bfc5ae318081ce34458aa90e&token=876992619&lang=zh_CN#rd)  
+    [【ViViT: A Video Vision Transformer】](https://arxiv.org/abs/2103.15691)
 
 ### 对比学习（Contrastive Learning）
 - [ICCV2021-DetCo：性能优于何恺明等人提出的MoCo v2，为目标检测定制任务的对比学习。](https://zhuanlan.zhihu.com/p/393202411)  
@@ -228,6 +233,9 @@ Hello，大家好，我是小马🚀🚀🚀
 ### 多模态
 - [ACM MM2021-从局部到整体的检索！阿里提出用于视频文本检索的分层对齐网络HANet！代码已开源！](https://zhuanlan.zhihu.com/p/436531598)  
     [【HANet: Hierarchical Alignment Networks for Video-Text Retrieval】](https://arxiv.org/abs/2107.12059)
+
+- [CLIP还能做视频字幕任务！腾讯&清华提出CLIP4Caption，ACM MM2021挑战赛第二名！](https://mp.weixin.qq.com/s?__biz=MzIzNzU4OTAxMQ==&mid=2247484376&idx=1&sn=f1312c32ee10aa4168d2119d7615256b&chksm=e8c704a4dfb08db21ae5c06cb070a2a4007961667a7ecbe74e356974b39a3856e624e1a9793c&token=876992619&lang=zh_CN#rd)  
+    [【CLIP4Caption: CLIP for Video Caption】](https://arxiv.org/abs/2110.06615)
 
 ***
 
