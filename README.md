@@ -542,6 +542,9 @@ Hello，大家好，我是小马🚀🚀🚀
 - [《BEIT》-基于图像重建进行预训练！微软提出BEIT，Top-1准确率达86.3%！代码已开源！](https://zhuanlan.zhihu.com/p/438726362)  
     [【BEIT: BERT Pre-Training of Image Transformers】](https://arxiv.org/abs/2106.08254)
 
+- [RANet：MSDNet加强版！清华黄高团队提出分辨率自适应的高效推理网络RANet！](https://mp.weixin.qq.com/s?__biz=MzIzNzU4OTAxMQ==&mid=2247484390&idx=1&sn=1b5ba35d076ba32827b427e224feecc4&chksm=e8c7049adfb08d8cbc12c4c5418d35cf321a01975b92136d57f8f617c6b8c5bdbd871ea1d9a9&token=876992619&lang=zh_CN#rd)  
+    [【Resolution Adaptive Networks for Efficient Inference】](https://arxiv.org/abs/2003.07326)
+
 
 - []()  
     [【】]()
