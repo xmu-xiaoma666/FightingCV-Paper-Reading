@@ -545,6 +545,8 @@ Hello，大家好，我是小马🚀🚀🚀
 - [RANet：MSDNet加强版！清华黄高团队提出分辨率自适应的高效推理网络RANet！](https://mp.weixin.qq.com/s?__biz=MzIzNzU4OTAxMQ==&mid=2247484390&idx=1&sn=1b5ba35d076ba32827b427e224feecc4&chksm=e8c7049adfb08d8cbc12c4c5418d35cf321a01975b92136d57f8f617c6b8c5bdbd871ea1d9a9&token=876992619&lang=zh_CN#rd)  
     [【Resolution Adaptive Networks for Efficient Inference】](https://arxiv.org/abs/2003.07326)
 
+- [字节&约翰斯·霍普金斯&上交提出iBOT框架，基于MIM进行自监督训练，在ImageNet-1K上达到86.3%的微调精度！](https://mp.weixin.qq.com/s/Hid41s7RQlGT6b6tE60XOg)  
+    [【iBOT: Image BERT Pre-Training with Online Tokenizer】](https://arxiv.org/abs/2111.07832)
 
 - []()  
     [【】]()
