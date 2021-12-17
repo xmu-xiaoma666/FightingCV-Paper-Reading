@@ -548,5 +548,8 @@ Hello，大家好，我是小马🚀🚀🚀
 - [字节&约翰斯·霍普金斯&上交提出iBOT框架，基于MIM进行自监督训练，在ImageNet-1K上达到86.3%的微调精度！](https://mp.weixin.qq.com/s/Hid41s7RQlGT6b6tE60XOg)  
     [【iBOT: Image BERT Pre-Training with Online Tokenizer】](https://arxiv.org/abs/2111.07832)
 
+- [清华&MBZUAI&CMU&牛津提出DenseCLIP，用上下文感知的提示进行语言引导密集预测！](https://mp.weixin.qq.com/s?__biz=MzIzNzU4OTAxMQ==&mid=2247484402&idx=1&sn=9bc28bd7faa9632e6fd1179fbb56ac1a&chksm=e8c7048edfb08d988c7495759671fb2d8041e51ee792de249b7ac92407ead06e2bdc11b3373b&token=1352660427&lang=zh_CN#rd)  
+    [【DenseCLIP: Language-Guided Dense Prediction with Context-Aware Prompting】](https://arxiv.org/abs/2112.01518)
+
 - []()  
     [【】]()
