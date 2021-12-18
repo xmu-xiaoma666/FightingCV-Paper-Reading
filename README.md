@@ -49,6 +49,10 @@ Hello，大家好，我是小马🚀🚀🚀
 
 - [思考NLP和CV中的Local和Global建模](https://zhuanlan.zhihu.com/p/387766129)  
 
+
+- [怎么用图文预训练模型CLIP做视频任务？](https://mp.weixin.qq.com/s/4Wg8tr7hhfRrzG8d4o_iYw)  
+
+
 ## NeurIPS2021
 ### Transformer
 
@@ -550,6 +554,7 @@ Hello，大家好，我是小马🚀🚀🚀
 
 - [清华&MBZUAI&CMU&牛津提出DenseCLIP，用上下文感知的提示进行语言引导密集预测！](https://mp.weixin.qq.com/s?__biz=MzIzNzU4OTAxMQ==&mid=2247484402&idx=1&sn=9bc28bd7faa9632e6fd1179fbb56ac1a&chksm=e8c7048edfb08d988c7495759671fb2d8041e51ee792de249b7ac92407ead06e2bdc11b3373b&token=1352660427&lang=zh_CN#rd)  
     [【DenseCLIP: Language-Guided Dense Prediction with Context-Aware Prompting】](https://arxiv.org/abs/2112.01518)
+
 
 - []()  
     [【】]()
