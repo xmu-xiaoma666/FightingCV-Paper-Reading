@@ -556,5 +556,8 @@ Hello，大家好，我是小马🚀🚀🚀
     [【DenseCLIP: Language-Guided Dense Prediction with Context-Aware Prompting】](https://arxiv.org/abs/2112.01518)
 
 
+- [微软提出第一个端到端的Video Captioning方法：SWIN BERT，涨点显著！](https://mp.weixin.qq.com/s/u1y_Eid8YHC2zM_LUDv1Ag)  
+    [【SWIN BERT: End-to-End Transformers with Sparse Attention for Video Captioning】](https://arxiv.org/abs/2111.13196)
+
 - []()  
     [【】]()
