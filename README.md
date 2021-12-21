@@ -559,5 +559,9 @@ Hello，大家好，我是小马🚀🚀🚀
 - [微软提出第一个端到端的Video Captioning方法：SWIN BERT，涨点显著！](https://mp.weixin.qq.com/s/u1y_Eid8YHC2zM_LUDv1Ag)  
     [【SWIN BERT: End-to-End Transformers with Sparse Attention for Video Captioning】](https://arxiv.org/abs/2111.13196)
 
+
+- [用CLIP增强视频语言的理解，在VALUE榜单上SOTA！](https://mp.weixin.qq.com/s/iSfqa6lY8KZJ92YTbd8Z3g)  
+    [【A CLIP-Enhanced Method for Video-Language Understanding】](https://arxiv.org/abs/2110.07137)
+
 - []()  
     [【】]()
