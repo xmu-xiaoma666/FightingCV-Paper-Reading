@@ -563,5 +563,9 @@ Hello，大家好，我是小马🚀🚀🚀
 - [用CLIP增强视频语言的理解，在VALUE榜单上SOTA！](https://mp.weixin.qq.com/s/iSfqa6lY8KZJ92YTbd8Z3g)  
     [【A CLIP-Enhanced Method for Video-Language Understanding】](https://arxiv.org/abs/2110.07137)
 
+
+- [中科大&快手提出多模态交叉注意力模型：MMCA，促进图像-文本多模态匹配！](https://mp.weixin.qq.com/s/lnbIIMb42p5xWgE90OvC1A)  
+    [【Multi-Modality Cross Attention Network for Image and Sentence Matching】](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wei_Multi-Modality_Cross_Attention_Network_for_Image_and_Sentence_Matching_CVPR_2020_paper.pdf)
+
 - []()  
     [【】]()
