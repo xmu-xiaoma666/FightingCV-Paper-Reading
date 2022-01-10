@@ -52,6 +52,8 @@ Hello，大家好，我是小马🚀🚀🚀
 
 - [怎么用图文预训练模型CLIP做视频任务？](https://mp.weixin.qq.com/s/4Wg8tr7hhfRrzG8d4o_iYw)  
 
+- [聚焦视频文本检索：一文概览视频文本检索任务最新研究进展](https://mp.weixin.qq.com/s/ZD7JGtBzqo7Vpo-YkBmV2A)  
+
 
 ## NeurIPS2021
 ### Transformer
@@ -529,11 +531,8 @@ Hello，大家好，我是小马🚀🚀🚀
     [【Non-deep Networks】](https://arxiv.org/abs/2110.07641)
 
 
-
-
 - [NeurIPS2021-港大&腾讯AI Lab&牛津大学提出CARE，让CNN和Transformer能在对比学习中“互帮互助”！](https://zhuanlan.zhihu.com/p/430773996)  
     [【Revitalizing CNN Attentions via Transformers in Self-Supervised Visual Representation Learning】](https://arxiv.org/abs/2110.05340)
-
 
 
 - [FAIR三神Kaiming，Piotr，Ross新作，MAE才是YYDS！仅用ImageNet1K，Top-1准确率87.8%，封神！](https://zhuanlan.zhihu.com/p/432663453)  
@@ -566,6 +565,36 @@ Hello，大家好，我是小马🚀🚀🚀
 
 - [中科大&快手提出多模态交叉注意力模型：MMCA，促进图像-文本多模态匹配！](https://mp.weixin.qq.com/s/lnbIIMb42p5xWgE90OvC1A)  
     [【Multi-Modality Cross Attention Network for Image and Sentence Matching】](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wei_Multi-Modality_Cross_Attention_Network_for_Image_and_Sentence_Matching_CVPR_2020_paper.pdf)
+
+
+- [《AFTrans》来自ViT的免费午餐！北大&阿里提出用于细粒度视觉识别的自适应注意多尺度融合Transformer](https://mp.weixin.qq.com/s/v7w_BwcaeKf4zebPecF_uA)  
+    [【A free lunch from ViT- Adaptive Attention Multi-scale Fusion Transformer for Fine-grained Visual Recognition】](https://arxiv.org/abs/2110.01240)
+
+
+- [《ELF》即插即用！解决长尾问题！GT&UIUC联合提出基于Early-Exiting的网络框架，涨点并加速！](https://mp.weixin.qq.com/s/L7B4m4ON8txqIZ-fgcUSvA)  
+    [【ELF: An Early-Exiting Framework for Long-Tailed Classification】](https://arxiv.org/abs/2006.11979)
+
+
+- [SemVLP 单流和双流Transformer哪个好？阿里：我全都要！提出带可插拔模块的Transformer结构](https://mp.weixin.qq.com/s/zNLETZVcvGc7NPStwzGorw)  
+    [【SemVLP: Vision-Language Pre-training by Aligning Semantics at Multiple Levels】](https://arxiv.org/pdf/2103.07829v1.pdf)
+
+
+- [经典重温：FAIR提出SlowFast，用双分支非对称网络处理不同采样率的视频！代码开源！](https://mp.weixin.qq.com/s/_fDwpwEGmse1xCcF42i-uw)  
+    [【SlowFast Networks for Video Recognition】](https://arxiv.org/abs/1812.03982)
+
+
+- [全能型AI！用通用预训练感知模型处理多模态多任务！商汤&西交&港中文提出：Uni-Perceiver](https://mp.weixin.qq.com/s/1hUBIxuKqC6HEbHS577c7A)  
+    [【Uni-Perceiver: Pre-training Uniﬁed Architecture for Generic Perception for Zero-shot and Few-shot Tasks】](https://arxiv.org/abs/2112.01522)
+
+- [视频数据训练太慢？试试UT-Austin&FAIR提出的多重网格训练，加速4.5倍，还能提点！](https://mp.weixin.qq.com/s/Iryl3N60j5kpwXRaekJZwg)  
+    [【A Multigrid Method for Efﬁciently Training Video Models】](https://arxiv.org/abs/1912.00998)
+
+- [一个既能做CV任务，也能做NLP任务的Transformer模型！谷歌&UCLA提出统一的基础模型](https://mp.weixin.qq.com/s/DXvnT61su9fjUkmLS7VwRw)  
+    [【Towards a Uniﬁed Foundation Model: Jointly Pre-Training Transformers on Unpaired Images and Text】](https://arxiv.org/abs/2112.07074)
+
+
+- [图本检索的Zero-Shot超过CLIP模型！FILIP用细粒度的后期交互获得更好的预训练效率。](https://mp.weixin.qq.com/s/uRHh8RWzshX8PaYphsxJ5A)  
+    [【FILIP: Fine-grained Interactive Language-Image Pre-Training】](https://arxiv.org/abs/2111.07783)
 
 - []()  
     [【】]()
