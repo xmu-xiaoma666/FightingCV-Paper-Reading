@@ -5,7 +5,7 @@
 
 
 Hello，大家好，我是小马🚀🚀🚀
-
+ 
 作为研究生，读论文一直都是都是一件非常**费时费脑**的事情，因为帮助大家用**5分钟**的时间就能知道某篇论文的大致内容，我会把我看过的论文做好解析分享在这里。**项目持续更新，每周至少更新三篇！**⭐⭐⭐
 
 本项目的宗旨是🚀**让世界上没有难读的论文**🚀，论文主题包括但不限于检测、分类、分割、Backbone、多模态等等，论文来源包括但不限于最新的arXiv论文、ICCV2021、CVPR2021、MM2021。**(项目会保持持续更新，每周至少三篇)**⭐⭐⭐
@@ -595,6 +595,10 @@ Hello，大家好，我是小马🚀🚀🚀
 
 - [图本检索的Zero-Shot超过CLIP模型！FILIP用细粒度的后期交互获得更好的预训练效率。](https://mp.weixin.qq.com/s/uRHh8RWzshX8PaYphsxJ5A)  
     [【FILIP: Fine-grained Interactive Language-Image Pre-Training】](https://arxiv.org/abs/2111.07783)
+
+- [Align and Prompt：Salesforce&ANU提出ALPRO，进行细粒度的视频文本对齐！代码已开源！](https://mp.weixin.qq.com/s/8V7VWAsCfsBubKXx14vr6Q)  
+    [【Align and Prompt: Video-and-Language Pre-training with Entity Prompts】](https://arxiv.org/abs/2112.09583)
+
 
 - []()  
     [【】]()
