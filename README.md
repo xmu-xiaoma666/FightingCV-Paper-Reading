@@ -600,5 +600,9 @@ Hello，大家好，我是小马🚀🚀🚀
     [【Align and Prompt: Video-and-Language Pre-training with Entity Prompts】](https://arxiv.org/abs/2112.09583)
 
 
+
+- [用不匹配的图文对也能进行多模态预训练？百度提出统一模态的预训练框架：UNIMO（ACL2021）](https://mp.weixin.qq.com/s/b3NB6pZ3b5laomQvqfTvOw)  
+    [【UNIMO: Towards Uniﬁed-Modal Understanding and Generation via Cross-Modal Contrastive Learning】](https://arxiv.org/abs/2012.15409)
+
 - []()  
     [【】]()
