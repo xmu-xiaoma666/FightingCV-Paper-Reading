@@ -248,7 +248,10 @@ Hello，大家好，我是小马🚀🚀🚀
 ## ICML2021
 ### 预训练（pre-train）
 - [ICML2021-《ALIGN》-大力出奇迹，谷歌用18亿的图像-文本对训练了一个这样的模型。](https://zhuanlan.zhihu.com/p/410499923)  
-    [【Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision】](https://zhuanlan.zhihu.com/p/410499923)
+    [【Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision】](https://arxiv.org/abs/2102.05918)
+
+- [追求极致速度，极简多模态预训练模型ViLT，推理速度比UNITER快60倍！（ICML2021）](https://mp.weixin.qq.com/s/gpiqOMpG1sIF1rGDGMUsCQ)  
+    [【ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision】](https://arxiv.org/abs/2102.03334)
 
 ***
 
