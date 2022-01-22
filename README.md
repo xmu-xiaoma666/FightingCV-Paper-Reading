@@ -77,6 +77,9 @@ Hello，大家好，我是小马🚀🚀🚀
 - [微软新作Focal Self-Attention：具备Local和Global交互能力的Transformer](https://zhuanlan.zhihu.com/p/387693270)  
     [【Focal Self-attention for Local-Global Interactions in Vision Transformers】](https://arxiv.org/abs/2107.00641)
 
+- [显著提高Transformer在小规模数据集的性能，特伦托大学&腾讯提出新的损失函数，涨点显著！(NeurIPS2021)](https://mp.weixin.qq.com/s/PYx5IH3rYiEztkmZo_EZeA)  
+    [【Efﬁcient Training of Visual Transformers with Small-Size Datasets】](https://arxiv.org/abs/2106.03746)
+
 
 ***
 
