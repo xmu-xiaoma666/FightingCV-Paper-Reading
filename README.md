@@ -610,5 +610,9 @@ Hello，大家好，我是小马🚀🚀🚀
 - [用不匹配的图文对也能进行多模态预训练？百度提出统一模态的预训练框架：UNIMO（ACL2021）](https://mp.weixin.qq.com/s/b3NB6pZ3b5laomQvqfTvOw)  
     [【UNIMO: Towards Uniﬁed-Modal Understanding and Generation via Cross-Modal Contrastive Learning】](https://arxiv.org/abs/2012.15409)
 
+
+- [CPT：刷爆少样本REC任务！清华刘知远团队提出跨模态预训练Prompt Tuning](https://arxiv.org/abs/2109.11797)  
+    [【CPT: Colorful Prompt Tuning for Pre-trained Vision-Language Models】](https://arxiv.org/abs/2109.11797)
+
 - []()  
     [【】]()
