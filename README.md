@@ -614,5 +614,9 @@ Hello，大家好，我是小马🚀🚀🚀
 - [CPT：刷爆少样本REC任务！清华刘知远团队提出跨模态预训练Prompt Tuning](https://arxiv.org/abs/2109.11797)  
     [【CPT: Colorful Prompt Tuning for Pre-trained Vision-Language Models】](https://arxiv.org/abs/2109.11797)
 
+
+- [KD-VLP：知识蒸馏和预训练还能这么结合？上科大&Intel&MSRA提出基于知识蒸馏的端到端多模态预训练模型](https://mp.weixin.qq.com/s/PG1FKQU64uL0rCtGpge_iw)  
+    [【KD-VLP: Improving End-to-End Vision-and-Language Pretraining with Object Knowledge Distillation】](https://arxiv.org/abs/2109.10504) 
+
 - []()  
     [【】]()
