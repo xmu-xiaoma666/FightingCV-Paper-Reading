@@ -55,6 +55,12 @@ Hello，大家好，我是小马🚀🚀🚀
 - [聚焦视频文本检索：一文概览视频文本检索任务最新研究进展](https://mp.weixin.qq.com/s/ZD7JGtBzqo7Vpo-YkBmV2A)  
 
 
+## AAAI 2022
+
+- [LGD：涨点神器！旷视孙剑、张祥雨团队提出标签引导的自蒸馏技术，助力目标检测！](https://mp.weixin.qq.com/s/dPhH6GvOwfx4qErcLsSQpA)  
+    [【LGD: Label-guided Self-distillation for Object Detection】](https://arxiv.org/abs/2109.11496)
+
+
 ## NeurIPS2021
 ### Transformer
 
