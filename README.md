@@ -113,6 +113,11 @@ Hello，大家好，我是小马🚀🚀🚀
 
 ***
 
+## ACL2021
+
+- [扔掉目标检测器，实现真正的端到端多模态预训练！阿里提出E2E-VLP（ACL2021）](https://mp.weixin.qq.com/s/aKYRYrP79ArxJ_wJdOWW1A)  
+    [【E2E-VLP: End-to-End Vision-Language Pre-training Enhanced by Visual Learning】](https://arxiv.org/abs/2106.01804)
+
 
 ## ICCV2021
 ### 多模态（Multi-Modal）
@@ -623,6 +628,7 @@ Hello，大家好，我是小马🚀🚀🚀
 
 - [KD-VLP：知识蒸馏和预训练还能这么结合？上科大&Intel&MSRA提出基于知识蒸馏的端到端多模态预训练模型](https://mp.weixin.qq.com/s/PG1FKQU64uL0rCtGpge_iw)  
     [【KD-VLP: Improving End-to-End Vision-and-Language Pretraining with Object Knowledge Distillation】](https://arxiv.org/abs/2109.10504) 
+
 
 - []()  
     [【】]()
