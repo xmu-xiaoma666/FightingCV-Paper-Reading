@@ -630,5 +630,9 @@ Hello，大家好，我是小马🚀🚀🚀
     [【KD-VLP: Improving End-to-End Vision-and-Language Pretraining with Object Knowledge Distillation】](https://arxiv.org/abs/2109.10504) 
 
 
+- [又一任务被Transformer攻陷！NVIDIA开源HORST，用Transformer解决早期动作识别和动作预期任务](https://mp.weixin.qq.com/s/bLcGxUDEJWG3_pVGwlTkZQ)  
+    [【Higher Order Recurrent Space-Time Transformer for Video Action Prediction】](https://arxiv.org/abs/2104.08665)
+
+
 - []()  
     [【】]()
