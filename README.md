@@ -634,5 +634,8 @@ Hello，大家好，我是小马🚀🚀🚀
     [【Higher Order Recurrent Space-Time Transformer for Video Action Prediction】](https://arxiv.org/abs/2104.08665)
 
 
+- [【经典回顾】静态结构不能满足模型部署性能需求？微软提出动态卷积结构，Top-1准确率提高2.9%！（附复现代码）](https://mp.weixin.qq.com/s/5eX0mpxiwIrfQ0yE8aUZCg)  
+    [【Dynamic Convolution: Attention over Convolution Kernels】](https://arxiv.org/abs/1912.03458)
+
 - []()  
     [【】]()
