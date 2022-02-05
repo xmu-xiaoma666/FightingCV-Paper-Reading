@@ -86,6 +86,8 @@ Hello，大家好，我是小马🚀🚀🚀
 - [显著提高Transformer在小规模数据集的性能，特伦托大学&腾讯提出新的损失函数，涨点显著！(NeurIPS2021)](https://mp.weixin.qq.com/s/PYx5IH3rYiEztkmZo_EZeA)  
     [【Efﬁcient Training of Visual Transformers with Small-Size Datasets】](https://arxiv.org/abs/2106.03746)
 
+- [ImageNet准确率超过90%！谷歌大脑开源V-MoE，用稀疏条件计算来训练目前最大的视觉模型！（NeurIPS 2021）](https://mp.weixin.qq.com/s/vDFLKOlqaF06PDNdLTHXQA)  
+    [【Scaling Vision with Sparse Mixture of Experts】](https://arxiv.org/abs/2106.05974)
 
 ***
 
