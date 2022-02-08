@@ -156,6 +156,12 @@ Hello，大家好，我是小马🚀🚀🚀
 - [ICCV2021 视频领域的纯Transformer方案！谷歌提出ViViT，在多个视频分类基准上SOTA！代码已开源！](https://mp.weixin.qq.com/s?__biz=MzIzNzU4OTAxMQ==&mid=2247484373&idx=1&sn=ab686693985a4aaba9a88a62a79f888b&chksm=e8c704a9dfb08dbf218880b39a1ff40cbd34b6e26b7273a4b420bfc5ae318081ce34458aa90e&token=876992619&lang=zh_CN#rd)  
     [【ViViT: A Video Vision Transformer】](https://arxiv.org/abs/2103.15691)
 
+
+
+- [Transformer开始往动态路由的方向前进了！厦大&华为提出TRAR，在VQA、REC上性能SOTA！（ICCV 2021）](https://mp.weixin.qq.com/s/RXWUHTdM66FdnNJ2FmvtTQ)  
+    [【TRAR: Routing the Attention Spans in Transformer for Visual Question Answering】](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhou_TRAR_Routing_the_Attention_Spans_in_Transformer_for_Visual_Question_ICCV_2021_paper.pdf)
+
+
 ### 对比学习（Contrastive Learning）
 - [ICCV2021-DetCo：性能优于何恺明等人提出的MoCo v2，为目标检测定制任务的对比学习。](https://zhuanlan.zhihu.com/p/393202411)  
     [【DetCo: Unsupervised Contrastive Learning for Object Detection】](https://arxiv.org/abs/2102.04803)
