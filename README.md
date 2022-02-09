@@ -645,5 +645,9 @@ Hello，大家好，我是小马🚀🚀🚀
 - [【经典回顾】静态结构不能满足模型部署性能需求？微软提出动态卷积结构，Top-1准确率提高2.9%！（附复现代码）](https://mp.weixin.qq.com/s/5eX0mpxiwIrfQ0yE8aUZCg)  
     [【Dynamic Convolution: Attention over Convolution Kernels】](https://arxiv.org/abs/1912.03458)
 
+
+- [VideoCLIP-Facebook&CMU开源视频文本理解的对比学习预训练，性能SOTA！适用于零样本学习！](https://mp.weixin.qq.com/s/IU2rkDAzXmYBAbBtuWHjFA)  
+    [【VideoCLIP: Contrastive Pre-training for Zero-shot Video-Text Understanding】](https://arxiv.org/pdf/2109.14084.pdf)
+
 - []()  
     [【】]()
