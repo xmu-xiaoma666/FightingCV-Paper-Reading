@@ -649,5 +649,8 @@ Hello，大家好，我是小马🚀🚀🚀
 - [VideoCLIP-Facebook&CMU开源视频文本理解的对比学习预训练，性能SOTA！适用于零样本学习！](https://mp.weixin.qq.com/s/IU2rkDAzXmYBAbBtuWHjFA)  
     [【VideoCLIP: Contrastive Pre-training for Zero-shot Video-Text Understanding】](https://arxiv.org/pdf/2109.14084.pdf)
 
+- [【经典重温】所有数据无需共享同一个卷积核！谷歌提出条件参数化卷积CondConv（附Pytorch复现代码）](https://mp.weixin.qq.com/s/AeSz2TvBFRXkQOI67MG1GQ)  
+    [【CondConv: Conditionally Parameterized Convolutions for Efficient Inference】](https://arxiv.org/abs/1904.04971)
+
 - []()  
     [【】]()
