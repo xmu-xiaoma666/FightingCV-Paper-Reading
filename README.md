@@ -61,6 +61,12 @@ Hello，大家好，我是小马🚀🚀🚀
     [【LGD: Label-guided Self-distillation for Object Detection】](https://arxiv.org/abs/2109.11496)
 
 
+## ICLR 2021
+
+
+- [动态卷积效率低？UCSD&微软用矩阵分解的方法解决了这个问题，性能还更高！（ICLR2021）](https://mp.weixin.qq.com/s/LPJXi1VFLKvm3jQ3_bojoA)  
+    [【Revisiting Dynamic Convolution via Matrix Decomposition】](https://arxiv.org/abs/2103.08756)
+
 ## NeurIPS2021
 ### Transformer
 
@@ -651,6 +657,7 @@ Hello，大家好，我是小马🚀🚀🚀
 
 - [【经典重温】所有数据无需共享同一个卷积核！谷歌提出条件参数化卷积CondConv（附Pytorch复现代码）](https://mp.weixin.qq.com/s/AeSz2TvBFRXkQOI67MG1GQ)  
     [【CondConv: Conditionally Parameterized Convolutions for Efficient Inference】](https://arxiv.org/abs/1904.04971)
+
 
 - []()  
     [【】]()
