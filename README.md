@@ -658,5 +658,12 @@ Hello，大家好，我是小马🚀🚀🚀
     [【CondConv: Conditionally Parameterized Convolutions for Efficient Inference】](https://arxiv.org/abs/1904.04971)
 
 
+- [ConvMixer：7行PyTorch代码实现的网络，就能在ImageNet上达到80%+的精度！](https://mp.weixin.qq.com/s/Q04jlsUm-DHUYJxJeC1Tgg)  
+    [【Patches Are All You Need?】](https://openreview.net/forum?id=TVHS5Y4dNvM)
+
 - []()  
     [【】]()
+
+
+
+    
