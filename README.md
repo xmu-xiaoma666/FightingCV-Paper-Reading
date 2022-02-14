@@ -661,6 +661,11 @@ Hello，大家好，我是小马🚀🚀🚀
 - [ConvMixer：7行PyTorch代码实现的网络，就能在ImageNet上达到80%+的精度！](https://mp.weixin.qq.com/s/Q04jlsUm-DHUYJxJeC1Tgg)  
     [【Patches Are All You Need?】](https://openreview.net/forum?id=TVHS5Y4dNvM)
 
+
+- [Facebook AI&牛津提出带“轨迹注意力”的Video Transformer，在视频动作识别任务中性能SOTA！](https://mp.weixin.qq.com/s/16esna6mDGNTSOg-NkmJ-w)  
+    [【Keeping Your Eye on the Ball: Trajectory Attention in Video Transformers】](https://arxiv.org/abs/2106.05392)
+
+
 - []()  
     [【】]()
 
