@@ -117,6 +117,11 @@ Hello，大家好，我是小马🚀🚀🚀
 - [NeurIPS2021-用多大分辨率的图像做分类更适合？浙大&华为&国科大提出Dynamic Resolution Network，降低计算量还能提性能！](https://zhuanlan.zhihu.com/p/428436758)  
     [【Dynamic Resolution Network】](https://arxiv.org/abs/2106.02898)
 
+### 其他
+
+- [MoCo不适用于目标检测？MSRA提出对象级对比学习的目标检测预训练方法SoCo！性能SOTA！（NeurIPS 2021）](https://mp.weixin.qq.com/s/tHLElQSe7YWFb4lgJsxpEA)  
+    [【Aligning Pretraining for Detection via Object-Level Contrastive Learning】](https://arxiv.org/abs/2106.02637)
+
 
 ***
 
