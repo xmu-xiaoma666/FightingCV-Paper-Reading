@@ -14,7 +14,7 @@ Hello，大家好，我是小马🚀🚀🚀
 （最新还更新了[【Attention、MLP、Conv、MLP、Backbone的代码复现项目】](https://github.com/xmu-xiaoma666/External-Attention-pytorch)，欢迎大家学习交流）
 
 
-<!-- ***
+ ***
 ## 公众号 & 微信交流群
 
 欢迎大家关注公众号：**FightingCV**
@@ -30,7 +30,7 @@ Hello，大家好，我是小马🚀🚀🚀
 
 ![](./tmpimg/wechat.jpg)
 
-强烈推荐大家关注[**知乎**](https://www.zhihu.com/people/jason-14-58-38/posts)账号和[**FightingCV公众号**](https://mp.weixin.qq.com/s/sgNw6XFBPcD20Ef3ddfE1w)，可以快速了解到最新优质的干货资源。 -->
+强烈推荐大家关注[**知乎**](https://www.zhihu.com/people/jason-14-58-38/posts)账号和[**FightingCV公众号**](https://mp.weixin.qq.com/s/sgNw6XFBPcD20Ef3ddfE1w)，可以快速了解到最新优质的干货资源。 
 
 ***
 
