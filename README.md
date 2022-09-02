@@ -1,5 +1,5 @@
-<img src="./tmpimg/LOGO.gif" height="200" width="400"/>
 
+<img src="./FightingCVimg/LOGO.gif" height="200" width="400"/>
 
 # FightingCV-Paper-Reading
 
@@ -9,13 +9,37 @@ Hello，大家好，我是小马🚀🚀🚀
 作为研究生，读论文一直都是都是一件非常**费时费脑**的事情，因为帮助大家用**5分钟**的时间就能知道某篇论文的大致内容，我会把我看过的论文做好解析分享在这里。⭐⭐⭐
 
 
-本项目的宗旨是🚀**让世界上没有难读的论文**🚀，论文主题包括但不限于检测、分类、分割、Backbone、多模态等等，论文来源包括但不限于最新的arXiv论文、ICCV2021、CVPR2021、MM2021、AAAI2022、ECCV2022。⭐⭐⭐
+本项目的宗旨是🚀**让世界上没有难读的论文**🚀，论文主题包括但不限于检测、分类、分割、Backbone、多模态等等，论文来源包括但不限于最新的arXiv论文、ICCV2021、CVPR2021、MM2021、AAAI2022、ECCV2022、TPAMI2022等各大顶会顶刊⭐⭐⭐
  
  
 （最新还更新了[【Attention、MLP、Conv、MLP、Backbone的代码复现项目】](https://github.com/xmu-xiaoma666/External-Attention-pytorch)，欢迎大家学习交流）
 
 
- ***
+
+
+## 技术交流 <img title="" src="https://user-images.githubusercontent.com/48054808/157800467-2a9946ad-30d1-49a9-b9db-ba33413d9c90.png" alt="" width="20">
+
+欢迎大家关注公众号：**FightingCV**
+
+
+
+| FightingCV公众号 | 小助手微信 （备注【**公司/学校+方向+ID**】）|
+:-------------------------:|:-------------------------:
+<img src='./FightingCVimg/FightingCV.jpg' width='200px'>  |  <img src='./FightingCVimg/xiaozhushou.jpg' width='200px'> 
+
+- 公众号**每天**都会进行**论文、算法和代码的干货分享**哦~
+
+- **交流群每天分享一些最新的论文和解析**，欢迎大家一起**学习交流**哈~~~
+（加不进去可以加微信：**775629340**，记得备注【**公司/学校+方向+ID**】）
+
+<!-- ![](./FightingCVimg/wechat.jpg) -->
+
+- 强烈推荐大家关注[**知乎**](https://www.zhihu.com/people/jason-14-58-38/posts)账号和[**FightingCV公众号**](https://mp.weixin.qq.com/s/m9RiivbbDPdjABsTd6q8FA)，可以快速了解到最新优质的干货资源。
+
+
+
+
+ <!-- ***
 ## 公众号 & 微信交流群
 
 欢迎大家关注公众号：**FightingCV**
@@ -33,7 +57,7 @@ Hello，大家好，我是小马🚀🚀🚀
 
 强烈推荐大家关注[**知乎**](https://www.zhihu.com/people/jason-14-58-38/posts)账号和[**FightingCV公众号**](https://mp.weixin.qq.com/s/sgNw6XFBPcD20Ef3ddfE1w)，可以快速了解到最新优质的干货资源。 
 
-***
+*** -->
 
 
 ## 总结性文章
