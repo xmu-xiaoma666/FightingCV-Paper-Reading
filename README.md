@@ -57,11 +57,77 @@ Hello，大家好，我是小马🚀🚀🚀
 
 - [聚焦视频文本检索：一文概览视频文本检索任务最新研究进展](https://mp.weixin.qq.com/s/ZD7JGtBzqo7Vpo-YkBmV2A)  
 
+- [调研280+篇文献！CVPR最佳论文得主清华黄高团队提出首篇动态网络综述，全面回顾动态网络的发展！](https://mp.weixin.qq.com/s/GROX2pFGxQYU2BezJQu7uw)  
+
+## TPAMI 2022
+
+- [TPAMI2022 | Dual ViT！京东（梅涛团队）提出双路径ViT结构，大大降低计算开销！](https://mp.weixin.qq.com/s/Ap05SyIg6W0aLX50PeAt8Q)  
+    [【Dual Vision Transformer】](https://arxiv.org/abs/2207.04976)
+
+## ECCV 2022
+
+- [ECCV2022 Oral | 任务范式大统一，微软提出UniTAB用Seq2Seq模式统一多模态任务！](https://mp.weixin.qq.com/s/8eZUbDc3f02_C0AeNEuNdA)  
+    [【UniTAB: Unifying Text and Box Outputs for Grounded Vision-Language Modeling】](https://arxiv.org/abs/2111.12085)
+
+- [ECCV2022|合工大&商汤&澳国大提出新任务和数据集，用于分割视频中发出声音的物体！](https://mp.weixin.qq.com/s/2UMHCdLVXFjx1rwoTm5D8A)  
+    [【Audio−Visual Segmentation】](https://arxiv.org/pdf/2207.05042.pdf)
+
+    
+- [ECCV22｜只能11%的参数就能优于Swin，微软提出快速预训练蒸馏方法TinyViT](https://mp.weixin.qq.com/s/ZOqnkk_Fwx5nYnoDFpXR0Q)  
+    [【TinyViT: Fast Pretraining Distillation for Small Vision Transformers】](https://arxiv.org/abs/2207.10666)
+
+- [ECCV2022 | RU&谷歌提出用CLIP进行zero-shot目标检测！​](https://mp.weixin.qq.com/s/gMeOhnWT5CtHnRU9DaM6xg)  
+    [【Exploiting Unlabeled Data with Vision and Language Models for Object Detection】](https://arxiv.org/abs/2207.08954)
+
+
+
+
+## CVPR 2022
+
+- [CVPR2022|比VinVL快一万倍！人大提出交互协同的双流视觉语言预训练模型COTS，又快又好！](https://mp.weixin.qq.com/s/haJb4c3_t3DqAFoVEleqxQ)  
+    [【COTS: Collaborative Two-Stream Vision-Language Pre-Training Model for Cross-Modal Retrieval】](https://arxiv.org/abs/2204.07441)
+
+
+- [CVPR2022 | 中科大&华为提出用于非对称图像检索的上下文相似性蒸馏](https://mp.weixin.qq.com/s/HqFTOKD5NTS0sbxkP8-8Hg)  
+    [【Contextual Similarity Distillation for Asymmetric Image Retrieval】](https://openaccess.thecvf.com/content/CVPR2022/papers/Wu\_Contextual\_Similarity\_Distillation\_for\_Asymmetric\_Image\_Retrieval\_CVPR\_2022\_paper.pdf)
+
+
+- [CVPR22 Oral｜通过多尺度token聚合分流自注意力，代码已开源](https://mp.weixin.qq.com/s/9alGDizMO0KVinfM3IOruQ)  
+    [【Shunted Self-Attention via Multi-Scale Token Aggregation】](https://arxiv.org/abs/2111.15193)
+
+
 
 ## AAAI 2022
 
 - [LGD：涨点神器！旷视孙剑、张祥雨团队提出标签引导的自蒸馏技术，助力目标检测！](https://mp.weixin.qq.com/s/dPhH6GvOwfx4qErcLsSQpA)  
     [【LGD: Label-guided Self-distillation for Object Detection】](https://arxiv.org/abs/2109.11496)
+
+
+
+## ArXiv 2022
+
+
+- [多边形战士模型！微软提出19亿参数的超大通用模型BEIT-3，刷榜多个CV和多模态任务！](https://mp.weixin.qq.com/s/FyLGIZHYjRm09Tkn-mm_cA)  
+    [【Image as a Foreign Language: BEIT Pretraining for All Vision and Vision-Language Tasks】](https://arxiv.org/abs/2208.10442)
+
+- [超越所有MIM模型的BEiT v2来了！微软使用矢量量化视觉Tokenizers的掩码图像建模！](https://mp.weixin.qq.com/s/eLDp_KCaLv9TM4-yI0WoHw)  
+    [【BEIT V2: Masked Image Modeling with Vector-Quantized Visual Tokenizers】](https://arxiv.org/pdf/2208.06366.pdf)
+
+- [何恺明团队提出探索用于目标检测的不分层ViT Backbone](https://mp.weixin.qq.com/s/RZVb1mxgIxQi-zz4M4ykKg)  
+    [【Exploring Plain Vision Transformer Backbones for Object Detection】](https://arxiv.org/abs/2203.16527)
+
+- [数据标注太昂贵？这个方法可以用有限的数据训练模型实现基于文本的ReID！](https://mp.weixin.qq.com/s/m9RiivbbDPdjABsTd6q8FA)  
+    [【Text-Based Person Search with Limited Data】](https://arxiv.org/abs/2110.10807)
+
+
+- [南信大提出TIPCB，一个简单但有效的用于基于文本的人员搜索的基于部分的卷积baseline](https://mp.weixin.qq.com/s/CKXcLFnmcp_Guv83SOYOYQ)  
+    [【TIPCB: A Simple but Eﬀective Part-based Convolutional Baseline for Text-based Person Search】](https://www.sciencedirect.com/science/article/abs/pii/S0925231222004726)
+
+
+
+
+- [兼顾Accuracy和Diversity！用于Image Captioning的变分Transformer模型！](https://mp.weixin.qq.com/s/yCBn87Ip2j9hqCctziiBhQ)  
+    [【Variational Transformer: A Framework Beyond the Trade-off between Accuracy and Diversity for Image Captioning】](https://arxiv.org/abs/2205.14458)
 
 
 ## ICLR 2021
@@ -136,6 +202,12 @@ Hello，大家好，我是小马🚀🚀🚀
 
 ## ICCV2021
 ### 多模态（Multi-Modal）
+
+
+- [ICCV2021 | 你以为这是一个填色模型？其实我是检索模型！](https://mp.weixin.qq.com/s/ugGuKSnOH_i67Eatu0QJ7Q)  
+    [【LapsCore: Language-guided Person Search via Color Reasoning】](https://ieeexplore.ieee.org/document/9711140/)
+
+
 - [ICCV2021 Oral-MDETR：图灵奖得主Yann LeCun的团队&Facebook提出端到端多模态理解的目标检测器](https://zhuanlan.zhihu.com/p/394239659)  
     [【MDETR -- Modulated Detection for End-to-End Multi-Modal Understanding】](https://arxiv.org/abs/2104.12763)
 
@@ -673,10 +745,21 @@ Hello，大家好，我是小马🚀🚀🚀
 - [Facebook AI&牛津提出带“轨迹注意力”的Video Transformer，在视频动作识别任务中性能SOTA！](https://mp.weixin.qq.com/s/16esna6mDGNTSOg-NkmJ-w)  
     [【Keeping Your Eye on the Ball: Trajectory Attention in Video Transformers】](https://arxiv.org/abs/2106.05392)
 
+- [Score-CAM｜用kernel加权解释CNN的预测结果](https://mp.weixin.qq.com/s/V_ULnnI4vUlpaPysCj6Zfg)  
+    [【Score-CAM: Score-Weighted Visual Explanations for Convolutional Neural Networks】](https://ieeexplore.ieee.org/document/9150840)
 
-- []()  
-    [【】]()
+
+- [全尺度表示的上下文非局部对齐，南科大&优图提出NAFS解决基于文本的Re ID​](https://mp.weixin.qq.com/s/SMLmy6Vg8hf9tLnZT0gDfg)  
+    [【Contextual Non-Local Alignment over Full-Scale Representation for Text-Based Person Search】](https://arxiv.org/abs/2101.03036)
 
 
+- [用GAN的方法来进行图片匹配！休斯顿大学提出用于文本图像匹配的对抗表示学习，消除模态差异！​](https://mp.weixin.qq.com/s/KJ2JJORAimXt2jmtkVJZXQ)  
+    [【Adversarial Representation Learning for Text-to-Image Matching】](https://openaccess.thecvf.com/content_ICCV_2019/papers/Sarafianos_Adversarial_Representation_Learning_for_Text-to-Image_Matching_ICCV_2019_paper.pdf)
+
+
+- [图灵奖得主LeCun提出让Mask策略也能应用于基于ViT的孪生网络，进行自监督学习！](https://mp.weixin.qq.com/s/tspMoUUxKsBAr-p7kw20Iw)  
+    [【Masked Siamese ConvNets】](https://arxiv.org/abs/2206.07700)
+
+    
 
     
