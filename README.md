@@ -32,32 +32,10 @@ Hello，大家好，我是小马🚀🚀🚀
 - **交流群每天分享一些最新的论文和解析**，欢迎大家一起**学习交流**哈~~~
 （加不进去可以加微信：**775629340**，记得备注【**公司/学校+方向+ID**】）
 
-<!-- ![](./FightingCVimg/wechat.jpg) -->
 
 - 强烈推荐大家关注[**知乎**](https://www.zhihu.com/people/jason-14-58-38/posts)账号和[**FightingCV公众号**](https://mp.weixin.qq.com/s/m9RiivbbDPdjABsTd6q8FA)，可以快速了解到最新优质的干货资源。
 
 
-
-
- <!-- ***
-## 公众号 & 微信交流群
-
-欢迎大家关注公众号：**FightingCV**
-
-公众号**每天**都会进行**论文、算法和代码的干货分享**哦~
-
-
-已建立**机器学习/深度学习算法/计算机视觉/多模态交流群**微信交流群！
-
-（加不进去可以加微信：**775629340**，记得备注【**公司/学校+方向+ID**】）
-
-**每天在群里分享一些近期的论文和解析**，欢迎大家一起**学习交流**哈~~~
-
-![](./tmpimg/wechat.jpg)
-
-强烈推荐大家关注[**知乎**](https://www.zhihu.com/people/jason-14-58-38/posts)账号和[**FightingCV公众号**](https://mp.weixin.qq.com/s/sgNw6XFBPcD20Ef3ddfE1w)，可以快速了解到最新优质的干货资源。 
-
-*** -->
 
 
 ## 总结性文章
@@ -786,4 +764,21 @@ Hello，大家好，我是小马🚀🚀🚀
 
     
 
+## 其他文章
+
+- [CLIP：多模态领域革命者](https://mp.weixin.qq.com/s/MhtS3o0v14qhEjJNyM_QYg)  
+
+- [腾讯万字长文——推荐系统 embedding 技术实践总结](https://mp.weixin.qq.com/s/lgHKt60oHWveXZ-3HYgBYg)  
     
+## 科研问题分享
+
+
+- [博士生做科研想 idea 发现早就有人做过了，该怎么调整心态？](https://mp.weixin.qq.com/s/1bExX_-_K-pIJIkLkFa3ZA)  
+
+- [写综述前应如何快速、高效地阅读相关文献？](https://mp.weixin.qq.com/s/Ksn8CIDb9LyQwdvmpk0qzQ)  
+
+- [深度学习中创新点比较小，但有效果，可以发（水）论文吗?](https://mp.weixin.qq.com/s/bVufIhg_B9q8Ywmfj-kpxw)
+
+- [研究生发论文是先有idea再做实验，还是先做实验再有idea？](https://mp.weixin.qq.com/s/gK9q7-5l7muKHz3TzZ73ww)
+
+
