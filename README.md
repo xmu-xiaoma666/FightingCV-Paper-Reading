@@ -781,4 +781,5 @@ Hello，大家好，我是小马🚀🚀🚀
 
 - [研究生发论文是先有idea再做实验，还是先做实验再有idea？](https://mp.weixin.qq.com/s/gK9q7-5l7muKHz3TzZ73ww)
 
+- [什么样的科研是顶尖的科研？](https://mp.weixin.qq.com/s/DJI-jTEZH5s_xQ47yNp8JA)
 
