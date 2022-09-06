@@ -769,6 +769,8 @@ Hello，大家好，我是小马🚀🚀🚀
 - [CLIP：多模态领域革命者](https://mp.weixin.qq.com/s/MhtS3o0v14qhEjJNyM_QYg)  
 
 - [腾讯万字长文——推荐系统 embedding 技术实践总结](https://mp.weixin.qq.com/s/lgHKt60oHWveXZ-3HYgBYg)  
+
+- [自监督表征预训练之掩码图像建模：CAE 及其与 MAE、BEiT 的联系](https://mp.weixin.qq.com/s/vWCz2bU6TKqWPfmFYOHm3w)  
     
 ## 科研问题分享
 
