@@ -71,6 +71,9 @@ Hello，大家好，我是小马🚀🚀🚀
 - [ECCV2022 Oral | 任务范式大统一，微软提出UniTAB用Seq2Seq模式统一多模态任务！](https://mp.weixin.qq.com/s/8eZUbDc3f02_C0AeNEuNdA)  
     [【UniTAB: Unifying Text and Box Outputs for Grounded Vision-Language Modeling】](https://arxiv.org/abs/2111.12085)
 
+- [ECCV2022 Oral | MaskCLIP](https://mp.weixin.qq.com/s/zclNaZOR5JTQAutSA1sPAQ)  
+    [【Extract Free Dense Labels from CLIP】](https://arxiv.org/abs/2112.01071)
+
 - [ECCV2022|合工大&商汤&澳国大提出新任务和数据集，用于分割视频中发出声音的物体！](https://mp.weixin.qq.com/s/2UMHCdLVXFjx1rwoTm5D8A)  
     [【Audio−Visual Segmentation】](https://arxiv.org/pdf/2207.05042.pdf)
 
@@ -321,11 +324,8 @@ Hello，大家好，我是小马🚀🚀🚀
     [【PnP-DETR: Towards Efficient Visual Analysis with Transformers】](https://arxiv.org/abs/2109.07036)
 
 
-
 - [ICCV2021-还在用大量数据暴力train模型？主动学习，教你选出数据集中最有价值的样本](https://zhuanlan.zhihu.com/p/420756941)  
     [【Active Learning for Deep Object Detection via Probabilistic Modeling】](https://arxiv.org/abs/2103.16130)
-
-
 
 
 - [ICCV2021-比MoCo更通用的对比学习范式，中科大&MSRA提出对比学习新方法MaskCo](https://zhuanlan.zhihu.com/p/4209392131)  
@@ -636,7 +636,6 @@ Hello，大家好，我是小马🚀🚀🚀
 
 - [拒绝Prompt Engineering，NTU提出CoOp，自适应学习不同下游任务的Prompt，性能碾压手工设计的Prompt](https://zhuanlan.zhihu.com/p/408190719)  
     [【Learning to Prompt for Vision-Language Models】](https://arxiv.org/abs/2109.01134)
-
 
 
 - [深度神经网络其实并不需要那么深！普林斯顿大学&Intel提出ParNet，12层的网络就能达到80%以上的准确率！](https://zhuanlan.zhihu.com/p/429732072)  
