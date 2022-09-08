@@ -414,6 +414,8 @@ Hello，大家好，我是小马🚀🚀🚀
 - [CVPR2021 Oral-收敛更快！精度更高！南科大&腾讯微信团队重磅开源无监督预训练的UP-DETR](https://zhuanlan.zhihu.com/p/419660108)  
     [【UP-DETR: Unsupervised Pre-training for Object Detection with Transformers】](https://arxiv.org/abs/2011.09094)
 
+- [CVPR Oral | 谷歌&斯坦福（李飞飞组）提出TIRG，用组合的文本和图像来进行图像检索](https://mp.weixin.qq.com/s/_-EJhzkogoNu8kKql7_f7Q)  
+    [【Composing Text and Image for Image Retrieval - An Empirical Odyssey】](https://arxiv.org/abs/1812.07119)
 
 ***
 
