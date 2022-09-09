@@ -763,6 +763,12 @@ Hello，大家好，我是小马🚀🚀🚀
 - [图灵奖得主LeCun提出让Mask策略也能应用于基于ViT的孪生网络，进行自监督学习！](https://mp.weixin.qq.com/s/tspMoUUxKsBAr-p7kw20Iw)  
     [【Masked Siamese ConvNets】](https://arxiv.org/abs/2206.07700)
 
+
+- [图灵奖得主LeCun提出让Mask策略也能应用于基于ViT的孪生网络，进行自监督学习！](https://mp.weixin.qq.com/s/tspMoUUxKsBAr-p7kw20Iw)  
+    [【Masked Siamese ConvNets】](https://arxiv.org/abs/2206.07700)
+
+- [ECCV2018 | 大工（卢湖川团队）提出用于图像-文本匹配的深度跨模态投影学习](https://mp.weixin.qq.com/s/fvOyVDKA6O1llln59nDVqA)  
+    [【Deep Cross-Modal Projection Learning for Image-Text Matching】](https://openaccess.thecvf.com/content_ECCV_2018/papers/Ying_Zhang_Deep_Cross-Modal_Projection_ECCV_2018_paper.pdf)
     
 
 ## 其他文章
