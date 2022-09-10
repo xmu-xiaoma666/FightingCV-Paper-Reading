@@ -71,6 +71,9 @@ Hello，大家好，我是小马🚀🚀🚀
 - [ECCV2022 Oral | 任务范式大统一，微软提出UniTAB用Seq2Seq模式统一多模态任务！](https://mp.weixin.qq.com/s/8eZUbDc3f02_C0AeNEuNdA)  
     [【UniTAB: Unifying Text and Box Outputs for Grounded Vision-Language Modeling】](https://arxiv.org/abs/2111.12085)
 
+- [ECCV2022 Oral | MaskCLIP](https://mp.weixin.qq.com/s/zclNaZOR5JTQAutSA1sPAQ)  
+    [【Extract Free Dense Labels from CLIP】](https://arxiv.org/abs/2112.01071)
+
 - [ECCV2022|合工大&商汤&澳国大提出新任务和数据集，用于分割视频中发出声音的物体！](https://mp.weixin.qq.com/s/2UMHCdLVXFjx1rwoTm5D8A)  
     [【Audio−Visual Segmentation】](https://arxiv.org/pdf/2207.05042.pdf)
 
@@ -321,11 +324,8 @@ Hello，大家好，我是小马🚀🚀🚀
     [【PnP-DETR: Towards Efficient Visual Analysis with Transformers】](https://arxiv.org/abs/2109.07036)
 
 
-
 - [ICCV2021-还在用大量数据暴力train模型？主动学习，教你选出数据集中最有价值的样本](https://zhuanlan.zhihu.com/p/420756941)  
     [【Active Learning for Deep Object Detection via Probabilistic Modeling】](https://arxiv.org/abs/2103.16130)
-
-
 
 
 - [ICCV2021-比MoCo更通用的对比学习范式，中科大&MSRA提出对比学习新方法MaskCo](https://zhuanlan.zhihu.com/p/4209392131)  
@@ -414,6 +414,8 @@ Hello，大家好，我是小马🚀🚀🚀
 - [CVPR2021 Oral-收敛更快！精度更高！南科大&腾讯微信团队重磅开源无监督预训练的UP-DETR](https://zhuanlan.zhihu.com/p/419660108)  
     [【UP-DETR: Unsupervised Pre-training for Object Detection with Transformers】](https://arxiv.org/abs/2011.09094)
 
+- [CVPR Oral | 谷歌&斯坦福（李飞飞组）提出TIRG，用组合的文本和图像来进行图像检索](https://mp.weixin.qq.com/s/_-EJhzkogoNu8kKql7_f7Q)  
+    [【Composing Text and Image for Image Retrieval - An Empirical Odyssey】](https://arxiv.org/abs/1812.07119)
 
 ***
 
@@ -638,7 +640,6 @@ Hello，大家好，我是小马🚀🚀🚀
     [【Learning to Prompt for Vision-Language Models】](https://arxiv.org/abs/2109.01134)
 
 
-
 - [深度神经网络其实并不需要那么深！普林斯顿大学&Intel提出ParNet，12层的网络就能达到80%以上的准确率！](https://zhuanlan.zhihu.com/p/429732072)  
     [【Non-deep Networks】](https://arxiv.org/abs/2110.07641)
 
@@ -762,6 +763,12 @@ Hello，大家好，我是小马🚀🚀🚀
 - [图灵奖得主LeCun提出让Mask策略也能应用于基于ViT的孪生网络，进行自监督学习！](https://mp.weixin.qq.com/s/tspMoUUxKsBAr-p7kw20Iw)  
     [【Masked Siamese ConvNets】](https://arxiv.org/abs/2206.07700)
 
+
+- [图灵奖得主LeCun提出让Mask策略也能应用于基于ViT的孪生网络，进行自监督学习！](https://mp.weixin.qq.com/s/tspMoUUxKsBAr-p7kw20Iw)  
+    [【Masked Siamese ConvNets】](https://arxiv.org/abs/2206.07700)
+
+- [ECCV2018 | 大工（卢湖川团队）提出用于图像-文本匹配的深度跨模态投影学习](https://mp.weixin.qq.com/s/fvOyVDKA6O1llln59nDVqA)  
+    [【Deep Cross-Modal Projection Learning for Image-Text Matching】](https://openaccess.thecvf.com/content_ECCV_2018/papers/Ying_Zhang_Deep_Cross-Modal_Projection_ECCV_2018_paper.pdf)
     
 
 ## 其他文章
@@ -769,6 +776,8 @@ Hello，大家好，我是小马🚀🚀🚀
 - [CLIP：多模态领域革命者](https://mp.weixin.qq.com/s/MhtS3o0v14qhEjJNyM_QYg)  
 
 - [腾讯万字长文——推荐系统 embedding 技术实践总结](https://mp.weixin.qq.com/s/lgHKt60oHWveXZ-3HYgBYg)  
+
+- [自监督表征预训练之掩码图像建模：CAE 及其与 MAE、BEiT 的联系](https://mp.weixin.qq.com/s/vWCz2bU6TKqWPfmFYOHm3w)  
     
 ## 科研问题分享
 
