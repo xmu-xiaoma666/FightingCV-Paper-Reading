@@ -794,3 +794,5 @@ Hello，大家好，我是小马🚀🚀🚀
 
 
 - [亚马逊沐神 | 博士这五年](https://mp.weixin.qq.com/s/FRsXlg-DPfPSjr5-Di8AXg)
+
+- [亚马逊沐神 | 工作五年反思](https://mp.weixin.qq.com/s/YHGFUJAnAOTLg9bC96Mk9g)
