@@ -771,13 +771,16 @@ Hello，大家好，我是小马🚀🚀🚀
     [【Deep Cross-Modal Projection Learning for Image-Text Matching】](https://openaccess.thecvf.com/content_ECCV_2018/papers/Ying_Zhang_Deep_Cross-Modal_Projection_ECCV_2018_paper.pdf)
     
 
-## 其他文章
+## 其他技术文章
 
 - [CLIP：多模态领域革命者](https://mp.weixin.qq.com/s/MhtS3o0v14qhEjJNyM_QYg)  
 
 - [腾讯万字长文——推荐系统 embedding 技术实践总结](https://mp.weixin.qq.com/s/lgHKt60oHWveXZ-3HYgBYg)  
 
 - [自监督表征预训练之掩码图像建模：CAE 及其与 MAE、BEiT 的联系](https://mp.weixin.qq.com/s/vWCz2bU6TKqWPfmFYOHm3w)  
+
+
+- [为什么残差连接的网络结构更容易学习？](https://mp.weixin.qq.com/s/tSpvwLEYwZQ1PaartVxCBA)  
     
 ## 科研问题分享
 
