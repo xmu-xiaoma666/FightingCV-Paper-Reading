@@ -77,6 +77,12 @@ Hello，大家好，我是小马🚀🚀🚀
 - [ECCV2022|合工大&商汤&澳国大提出新任务和数据集，用于分割视频中发出声音的物体！](https://mp.weixin.qq.com/s/2UMHCdLVXFjx1rwoTm5D8A)  
     [【Audio−Visual Segmentation】](https://arxiv.org/pdf/2207.05042.pdf)
 
+
+- [ECCV2022|港中文MM Lab证明Frozen的CLIP 模型是高效视频学习者](https://mp.weixin.qq.com/s/JveOxkMca_T6Daq4GcUcLA)  
+    [【Frozen CLIP Models are Efficient Video Learners】](https://arxiv.org/abs/2208.03550)
+    [【Code】](https://github.com/opengvlab/efficient-video-recognition)
+
+
     
 - [ECCV22｜只能11%的参数就能优于Swin，微软提出快速预训练蒸馏方法TinyViT](https://mp.weixin.qq.com/s/ZOqnkk_Fwx5nYnoDFpXR0Q)  
     [【TinyViT: Fast Pretraining Distillation for Small Vision Transformers】](https://arxiv.org/abs/2207.10666)
