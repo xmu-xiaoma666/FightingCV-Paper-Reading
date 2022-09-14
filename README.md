@@ -785,6 +785,8 @@ Hello，大家好，我是小马🚀🚀🚀
 
 - [自监督表征预训练之掩码图像建模：CAE 及其与 MAE、BEiT 的联系](https://mp.weixin.qq.com/s/vWCz2bU6TKqWPfmFYOHm3w)  
 
+- [按需视觉识别的愿景和初步方案](https://mp.weixin.qq.com/s/pql5Po8tYKQjsr1RPJtMjA)  
+
 
 - [为什么残差连接的网络结构更容易学习？](https://mp.weixin.qq.com/s/tSpvwLEYwZQ1PaartVxCBA)  
     
