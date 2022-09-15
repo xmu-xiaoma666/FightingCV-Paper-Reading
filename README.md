@@ -78,9 +78,15 @@ Hello，大家好，我是小马🚀🚀🚀
     [【Audio−Visual Segmentation】](https://arxiv.org/pdf/2207.05042.pdf)
 
 
-- [ECCV2022|港中文MM Lab证明Frozen的CLIP 模型是高效视频学习者](https://mp.weixin.qq.com/s/JveOxkMca_T6Daq4GcUcLA)  
-    [【Frozen CLIP Models are Efficient Video Learners】](https://arxiv.org/abs/2208.03550)
-    [【Code】](https://github.com/opengvlab/efficient-video-recognition)
+- [ECCV2022 | 人大提出轻量级基于注意力的特征融合机制，在多个公开数据集上有效！代码已开源！](https://mp.weixin.qq.com/s/DYr5ErhRMpB1ttyQHp5Nxw)  
+    [【Lightweight Attentional Feature Fusion: A New Baseline for Text-to-Video Retrieval】](https://arxiv.org/abs/2112.01832)
+    [【Code】](https://github.com/ruc-aimc-lab/laff)
+
+
+- [ECCV2022 Oral | 任务范式大统一，微软提出UniTAB用Seq2Seq模式统一多模态任务！](https://mp.weixin.qq.com/s/8eZUbDc3f02_C0AeNEuNdA)  
+    [【UniTAB: Unifying Text and Box Outputs for Grounded Vision-Language Modeling】](https://arxiv.org/abs/2111.12085)
+
+
 
 
     
@@ -807,3 +813,6 @@ Hello，大家好，我是小马🚀🚀🚀
 - [亚马逊沐神 | 博士这五年](https://mp.weixin.qq.com/s/FRsXlg-DPfPSjr5-Di8AXg)
 
 - [亚马逊沐神 | 工作五年反思](https://mp.weixin.qq.com/s/YHGFUJAnAOTLg9bC96Mk9g)
+
+
+- [为什么面对读博大家都那么悲观？](https://mp.weixin.qq.com/s/RmLkiBoBr0l9DSOmePuBiQ)
