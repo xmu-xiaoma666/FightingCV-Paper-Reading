@@ -88,6 +88,10 @@ Hello，大家好，我是小马🚀🚀🚀
 
 
 
+    
+- [ECCV2022 | 时尚领域的多模态预训练预训练模型FashionViL，在五个下游任务中SOTA！代码已开源！](https://mp.weixin.qq.com/s/mX78IvjdIlBRREcZjlXVQg)  
+    [【FashionViL: Fashion-Focused Vision-and-Language Representation Learning】](https://arxiv.org/abs/2207.08150)
+    [【Code】](https://github.com/brandonhanx/mmf)
 
     
 - [ECCV22｜只能11%的参数就能优于Swin，微软提出快速预训练蒸馏方法TinyViT](https://mp.weixin.qq.com/s/ZOqnkk_Fwx5nYnoDFpXR0Q)  
