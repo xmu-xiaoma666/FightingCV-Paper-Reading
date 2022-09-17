@@ -800,6 +800,11 @@ Hello，大家好，我是小马🚀🚀🚀
 
 - [为什么残差连接的网络结构更容易学习？](https://mp.weixin.qq.com/s/tSpvwLEYwZQ1PaartVxCBA)  
     
+
+- [机器学习和数据分析的关系是怎么样的，要学习的话哪者为先？](https://mp.weixin.qq.com/s/-ws_Y86vQdDond9S9foNhg)  
+    
+- [深度学习pytorch训练代码模板(个人习惯)](https://mp.weixin.qq.com/s/s9B2s5fvk2sz8tqVKIvuZA)  
+
 ## 科研问题分享
 
 
