@@ -805,6 +805,9 @@ Hello，大家好，我是小马🚀🚀🚀
     
 - [深度学习pytorch训练代码模板(个人习惯)](https://mp.weixin.qq.com/s/s9B2s5fvk2sz8tqVKIvuZA)  
 
+- [从我开发的深度学习框架看深度学习这几年：TensorFlow, PaddlePaddle, 无量](https://mp.weixin.qq.com/s/vnZ22AMMtkj4LmZdYHsaqg)  
+
+
 ## 科研问题分享
 
 
@@ -825,3 +828,5 @@ Hello，大家好，我是小马🚀🚀🚀
 
 
 - [为什么面对读博大家都那么悲观？](https://mp.weixin.qq.com/s/RmLkiBoBr0l9DSOmePuBiQ)
+
+- [保研后，你们都怎么样了？](https://mp.weixin.qq.com/s/xpvXamCNGzV_cvpcMZBBIA)
