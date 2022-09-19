@@ -807,6 +807,7 @@ Hello，大家好，我是小马🚀🚀🚀
 
 - [从我开发的深度学习框架看深度学习这几年：TensorFlow, PaddlePaddle, 无量](https://mp.weixin.qq.com/s/vnZ22AMMtkj4LmZdYHsaqg)  
 
+- [【面向小白】深究模型大小和推理速度的关系！](https://mp.weixin.qq.com/s/QBDERm70zbfKPVsMIbcznw)  
 
 ## 科研问题分享
 
