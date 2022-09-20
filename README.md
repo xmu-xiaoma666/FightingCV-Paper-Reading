@@ -809,6 +809,9 @@ Hello，大家好，我是小马🚀🚀🚀
 
 - [【面向小白】深究模型大小和推理速度的关系！](https://mp.weixin.qq.com/s/QBDERm70zbfKPVsMIbcznw)  
 
+
+- [机器学习中常用的9种距离](https://mp.weixin.qq.com/s/TgS_8sZZRP-XyffWrsjR7Q)  
+
 ## 科研问题分享
 
 
