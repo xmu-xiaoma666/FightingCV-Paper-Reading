@@ -61,6 +61,11 @@ Hello，大家好，我是小马🚀🚀🚀
 
 - [调研280+篇文献！CVPR最佳论文得主清华黄高团队提出首篇动态网络综述，全面回顾动态网络的发展！](https://mp.weixin.qq.com/s/GROX2pFGxQYU2BezJQu7uw)  
 
+## 多模态ReID
+
+- [TIP | 自动化所谭铁牛院士团队提出用带注意力机制的图神经网络GARN，多个数据集上SOTA！](https://mp.weixin.qq.com/s/O62SaEf7OSm1Vt5s2prqtg)  
+    [【Learning Aligned Image-Text Representations Using Graph Attentive Relational Network】](https://ieeexplore.ieee.org/document/9318563)
+
 ## TPAMI 2022
 
 - [TPAMI2022 | Dual ViT！京东（梅涛团队）提出双路径ViT结构，大大降低计算开销！](https://mp.weixin.qq.com/s/Ap05SyIg6W0aLX50PeAt8Q)  
@@ -785,7 +790,10 @@ Hello，大家好，我是小马🚀🚀🚀
 
 - [ECCV2018 | 大工（卢湖川团队）提出用于图像-文本匹配的深度跨模态投影学习](https://mp.weixin.qq.com/s/fvOyVDKA6O1llln59nDVqA)  
     [【Deep Cross-Modal Projection Learning for Image-Text Matching】](https://openaccess.thecvf.com/content_ECCV_2018/papers/Ying_Zhang_Deep_Cross-Modal_Projection_ECCV_2018_paper.pdf)
-    
+
+
+
+
 
 ## 其他技术文章
 
@@ -811,6 +819,10 @@ Hello，大家好，我是小马🚀🚀🚀
 
 
 - [机器学习中常用的9种距离](https://mp.weixin.qq.com/s/TgS_8sZZRP-XyffWrsjR7Q)  
+
+
+- [BEVFormer治好了我的精神内耗](https://mp.weixin.qq.com/s/j8SLZVOQU7GDLwBPQJ_8GQ)  
+
 
 ## 科研问题分享
 
