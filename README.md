@@ -61,10 +61,13 @@ Hello，大家好，我是小马🚀🚀🚀
 
 - [调研280+篇文献！CVPR最佳论文得主清华黄高团队提出首篇动态网络综述，全面回顾动态网络的发展！](https://mp.weixin.qq.com/s/GROX2pFGxQYU2BezJQu7uw)  
 
-## 多模态ReID
 
-- [TIP | 自动化所谭铁牛院士团队提出用带注意力机制的图神经网络GARN，多个数据集上SOTA！](https://mp.weixin.qq.com/s/O62SaEf7OSm1Vt5s2prqtg)  
-    [【Learning Aligned Image-Text Representations Using Graph Attentive Relational Network】](https://ieeexplore.ieee.org/document/9318563)
+## NeurIPS 2022
+
+
+- [NeurIPS2022 | SegNeXt，重新思考卷积注意力设计](https://mp.weixin.qq.com/s/5VJvNRY1TG79x2D3y3itVw)  
+    [【SegNeXt: Rethinking Convolutional Attention Design for Semantic Segmentation】](https://github.com/Visual-Attention-Network/SegNeXt/blob/main/resources/paper.pdf)
+    [【Code】](https://github.com/Visual-Attention-Network/SegNeXt)
 
 ## TPAMI 2022
 
@@ -792,7 +795,10 @@ Hello，大家好，我是小马🚀🚀🚀
     [【Deep Cross-Modal Projection Learning for Image-Text Matching】](https://openaccess.thecvf.com/content_ECCV_2018/papers/Ying_Zhang_Deep_Cross-Modal_Projection_ECCV_2018_paper.pdf)
 
 
+## 多模态ReID
 
+- [TIP | 自动化所谭铁牛院士团队提出用带注意力机制的图神经网络GARN，多个数据集上SOTA！](https://mp.weixin.qq.com/s/O62SaEf7OSm1Vt5s2prqtg)  
+    [【Learning Aligned Image-Text Representations Using Graph Attentive Relational Network】](https://ieeexplore.ieee.org/document/9318563)
 
 
 ## 其他技术文章
@@ -823,6 +829,7 @@ Hello，大家好，我是小马🚀🚀🚀
 
 - [BEVFormer治好了我的精神内耗](https://mp.weixin.qq.com/s/j8SLZVOQU7GDLwBPQJ_8GQ)  
 
+- [大佬是如何从头写一篇顶级论文的？](https://mp.weixin.qq.com/s/e7fGPwJwkmYf5IMTYhrOOA)  
 
 ## 科研问题分享
 
