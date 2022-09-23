@@ -794,6 +794,9 @@ Hello，大家好，我是小马🚀🚀🚀
 - [ECCV2018 | 大工（卢湖川团队）提出用于图像-文本匹配的深度跨模态投影学习](https://mp.weixin.qq.com/s/fvOyVDKA6O1llln59nDVqA)  
     [【Deep Cross-Modal Projection Learning for Image-Text Matching】](https://openaccess.thecvf.com/content_ECCV_2018/papers/Ying_Zhang_Deep_Cross-Modal_Projection_ECCV_2018_paper.pdf)
 
+- [经典回顾 | 检索任务的经典工作VSE++](https://mp.weixin.qq.com/s/elT9bYyeKFiQPfkOQqCyqA)  
+    [【VSE++: Improving Visual-Semantic Embeddings with Hard Negatives】](http://www.bmva.org/bmvc/2018/contents/papers/0344.pdf)
+    [【Code】](https://github.com/fartashf/vsepp)
 
 ## 多模态ReID
 
@@ -853,3 +856,6 @@ Hello，大家好，我是小马🚀🚀🚀
 - [为什么面对读博大家都那么悲观？](https://mp.weixin.qq.com/s/RmLkiBoBr0l9DSOmePuBiQ)
 
 - [保研后，你们都怎么样了？](https://mp.weixin.qq.com/s/xpvXamCNGzV_cvpcMZBBIA)
+
+
+- [那些硕士或博士期间科研灌水，狂发论文的人后来混怎么样了？](https://mp.weixin.qq.com/s/OYNPvyM--7BaqI0cJrZ30Q)
