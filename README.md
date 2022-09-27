@@ -69,6 +69,12 @@ Hello，大家好，我是小马🚀🚀🚀
     [【SegNeXt: Rethinking Convolutional Attention Design for Semantic Segmentation】](https://github.com/Visual-Attention-Network/SegNeXt/blob/main/resources/paper.pdf)
     [【Code】](https://github.com/Visual-Attention-Network/SegNeXt)
 
+
+## ICLR 2022
+
+- [ICLR22 | 将Anchor box重新引入DETR，提供query可解释性并加速收敛](https://mp.weixin.qq.com/s/Q__tIi7ZTZCVNy18JC8DQQ)  
+    [【DAB-DETR: Dynamic Anchor Boxes are Better Queries for DETR】](https://readpaper.com/paper/4588454363555438593/abstract)
+
 ## TPAMI 2022
 
 - [TPAMI2022 | Dual ViT！京东（梅涛团队）提出双路径ViT结构，大大降低计算开销！](https://mp.weixin.qq.com/s/Ap05SyIg6W0aLX50PeAt8Q)  
