@@ -80,6 +80,14 @@ Hello，大家好，我是小马🚀🚀🚀
 - [TPAMI2022 | Dual ViT！京东（梅涛团队）提出双路径ViT结构，大大降低计算开销！](https://mp.weixin.qq.com/s/Ap05SyIg6W0aLX50PeAt8Q)  
     [【Dual Vision Transformer】](https://arxiv.org/abs/2207.04976)
 
+
+
+## CBMI 2022
+
+
+- [CBMI 2022 | 蒸馏细粒度对齐分数以实现高效的图文匹配和检索](https://mp.weixin.qq.com/s/PuXW1LrdnAbN0n0kDeymBw)  
+    [【ALADIN: Distilling Fine-grained Alignment Scores for Efficient Image-Text Matching and Retrieval】](https://arxiv.org/abs/2207.14757)
+
 ## ECCV 2022
 
 - [ECCV2022 Oral | 任务范式大统一，微软提出UniTAB用Seq2Seq模式统一多模态任务！](https://mp.weixin.qq.com/s/8eZUbDc3f02_C0AeNEuNdA)  
@@ -865,3 +873,6 @@ Hello，大家好，我是小马🚀🚀🚀
 
 
 - [那些硕士或博士期间科研灌水，狂发论文的人后来混怎么样了？](https://mp.weixin.qq.com/s/OYNPvyM--7BaqI0cJrZ30Q)
+
+
+- [博士真的很难熬吗?](https://mp.weixin.qq.com/s/E3t4IATbORcEh3PHcz8D5w)
