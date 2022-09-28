@@ -62,6 +62,13 @@ Hello，大家好，我是小马🚀🚀🚀
 - [调研280+篇文献！CVPR最佳论文得主清华黄高团队提出首篇动态网络综述，全面回顾动态网络的发展！](https://mp.weixin.qq.com/s/GROX2pFGxQYU2BezJQu7uw)  
 
 
+
+## MM 2022
+
+
+- [MM2022 | 用StyleGAN进行数据增强，真的太好用了](https://mp.weixin.qq.com/s/gla2Ej0Fd_r5KIDA4frj3Q)  
+    [【Paired Cross-Modal Data Augmentation for Fine-Grained Image-to-Text Retrieval】](https://arxiv.org/abs/2207.14428)
+
 ## NeurIPS 2022
 
 
@@ -876,3 +883,5 @@ Hello，大家好，我是小马🚀🚀🚀
 
 
 - [博士真的很难熬吗?](https://mp.weixin.qq.com/s/E3t4IATbORcEh3PHcz8D5w)
+
+- [微软亚洲研究院 (MSRA) 的实习体验如何？](https://mp.weixin.qq.com/s/7SEw7uEWrXdMl-wHQhVmlA)
