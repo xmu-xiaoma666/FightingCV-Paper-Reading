@@ -825,6 +825,11 @@ Hello，大家好，我是小马🚀🚀🚀
     [【VSE++: Improving Visual-Semantic Embeddings with Hard Negatives】](http://www.bmva.org/bmvc/2018/contents/papers/0344.pdf)
     [【Code】](https://github.com/fartashf/vsepp)
 
+
+
+- [还能这么玩？将Prompt Tuning用于细粒度的图像检索！](https://mp.weixin.qq.com/s/TyH9C1t_Z0jiEMKBFdoi9Q)  
+    [【Fine-grained Retrieval Prompt Tuning】](https://arxiv.org/abs/2207.14465)
+
 ## 多模态ReID
 
 - [TIP | 自动化所谭铁牛院士团队提出用带注意力机制的图神经网络GARN，多个数据集上SOTA！](https://mp.weixin.qq.com/s/O62SaEf7OSm1Vt5s2prqtg)  
@@ -894,3 +899,6 @@ Hello，大家好，我是小马🚀🚀🚀
 
 
 - [实验室的硬件条件好坏对你的科研有多大影响？](https://mp.weixin.qq.com/s/jxbQOC04aQ-PCPY5TtMezQ)
+
+
+- [2022 阿里全球数学竞赛获奖名单公布，其中 00 后选手占了一半多，如何评价这一现象？](https://mp.weixin.qq.com/s/DBIz3ZAY-Lo89vejRHfvYw)
