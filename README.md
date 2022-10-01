@@ -866,6 +866,9 @@ Hello，大家好，我是小马🚀🚀🚀
 
 - [大佬是如何从头写一篇顶级论文的？](https://mp.weixin.qq.com/s/e7fGPwJwkmYf5IMTYhrOOA)  
 
+- [大一统视角理解扩散模型](https://mp.weixin.qq.com/s/-Mp0fpiq7CPDX4a0WDYusw)  
+
+
 ## 科研问题分享
 
 
@@ -902,3 +905,5 @@ Hello，大家好，我是小马🚀🚀🚀
 
 
 - [2022 阿里全球数学竞赛获奖名单公布，其中 00 后选手占了一半多，如何评价这一现象？](https://mp.weixin.qq.com/s/DBIz3ZAY-Lo89vejRHfvYw)
+
+- [“国庆节”你还在做科研吗？连休7天是不是太奢侈了？](https://mp.weixin.qq.com/s/HyeYL-GbVtqU1IBHZJZ8sw)
