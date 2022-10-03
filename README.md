@@ -907,3 +907,5 @@ Hello，大家好，我是小马🚀🚀🚀
 - [2022 阿里全球数学竞赛获奖名单公布，其中 00 后选手占了一半多，如何评价这一现象？](https://mp.weixin.qq.com/s/DBIz3ZAY-Lo89vejRHfvYw)
 
 - [“国庆节”你还在做科研吗？连休7天是不是太奢侈了？](https://mp.weixin.qq.com/s/HyeYL-GbVtqU1IBHZJZ8sw)
+
+- [科研有很水的idea应该发表出来吗？](https://mp.weixin.qq.com/s/Hlbq40hUiKS_OM6KVIXusg)
