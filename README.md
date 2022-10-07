@@ -62,6 +62,12 @@ Hello，大家好，我是小马🚀🚀🚀
 - [调研280+篇文献！CVPR最佳论文得主清华黄高团队提出首篇动态网络综述，全面回顾动态网络的发展！](https://mp.weixin.qq.com/s/GROX2pFGxQYU2BezJQu7uw)  
 
 
+## CV知识点汇总与解析
+
+
+- [【CV知识点汇总与解析】|损失函数篇](https://mp.weixin.qq.com/s/6M0xp5voIevMpqA7RJ7SfQ)  
+
+- [【CV知识点汇总与解析】|激活函数篇](https://mp.weixin.qq.com/s/Nohv9kJskyJQjCU7aL6QEg)  
 
 ## MM 2022
 
