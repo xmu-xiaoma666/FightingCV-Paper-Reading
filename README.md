@@ -874,6 +874,8 @@ Hello，大家好，我是小马🚀🚀🚀
 
 - [大一统视角理解扩散模型](https://mp.weixin.qq.com/s/-Mp0fpiq7CPDX4a0WDYusw)  
 
+- [深度学习刷SOTA有哪些trick？](https://mp.weixin.qq.com/s/zocvJ48qz7y6Q_do08iAYw)  
+
 
 ## 科研问题分享
 
@@ -915,3 +917,5 @@ Hello，大家好，我是小马🚀🚀🚀
 - [“国庆节”你还在做科研吗？连休7天是不是太奢侈了？](https://mp.weixin.qq.com/s/HyeYL-GbVtqU1IBHZJZ8sw)
 
 - [科研有很水的idea应该发表出来吗？](https://mp.weixin.qq.com/s/Hlbq40hUiKS_OM6KVIXusg)
+
+- [读博那些事儿](https://mp.weixin.qq.com/s/5nJlDO0cVx9lUmaj4L-uLw)
