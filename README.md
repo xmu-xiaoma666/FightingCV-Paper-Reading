@@ -69,6 +69,8 @@ Hello，大家好，我是小马🚀🚀🚀
 
 - [【CV知识点汇总与解析】|激活函数篇](https://mp.weixin.qq.com/s/Nohv9kJskyJQjCU7aL6QEg)  
 
+- [【CV知识点汇总与解析】| optimizer和学习率篇](https://mp.weixin.qq.com/s/fNJ7rnQOV4rcr30eTVXR1w)  
+
 ## MM 2022
 
 
